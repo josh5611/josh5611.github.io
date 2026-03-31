@@ -1,0 +1,82 @@
+{
+  "date": "2025-03-10",
+  "summary": {
+    "actual_readings": 1,
+    "total_readings": 3,
+    "screenshot_extractions": 3
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-10",
+      "source": "screenshot_extracted:IMG_1148.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 221
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "221 mi. Charging Complete. Amp 20A. Upcoming Appointment - More Information Needed."
+    },
+    {
+      "timestamp": "2025-03-10",
+      "source": "screenshot_extracted:IMG_1149.PNG",
+      "battery": {
+        "level": 91,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "91%. Charging Complete. Amp 20A."
+    },
+    {
+      "timestamp": "2025-03-10",
+      "source": "screenshot_extracted:IMG_1151(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 221
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": null,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Home screen widget. Tuesday 10. Spokane 28F. Fuck opec 221 mi. N Howard-Wall Alley. 4hr 18min shown. High wind watch."
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "date": "2025-03-04",
+  "summary": {
+    "actual_readings": 4,
+    "total_readings": 9,
+    "screenshot_extractions": 9
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0874.PNG",
+      "battery": {
+        "level": 39,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 16,
+        "charge_limit_pct": 90,
+        "time_remaining": "8h 45m"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Amp setting 21A. Upcoming Appointment - Reviewing Vehicle Logs."
+    },
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0875(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 91
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 16,
+        "charge_limit_pct": 90,
+        "time_remaining": "8h 45m"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Same moment as IMG_0874 showing miles. 91 mi range."
+    },
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0881.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 111
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 244,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 36,
+        "charge_limit_pct": 90,
+        "time_remaining": "7h 30m"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Amp setting 21A. Voltage up to 244V."
+    },
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0882.PNG",
+      "battery": {
+        "level": 47,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 243,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 36,
+        "charge_limit_pct": 90,
+        "time_remaining": "7h 30m"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Same moment as IMG_0881 showing %. 47% at 243V."
+    },
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0883.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 121
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 240,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 46,
+        "charge_limit_pct": 90,
+        "time_remaining": "7h 10m"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Amp setting 21A. 25 min later, 10 more miles added."
+    },
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0884.PNG",
+      "battery": {
+        "level": 51,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 240,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 46,
+        "charge_limit_pct": 90,
+        "time_remaining": "7h 5m"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Same moment as IMG_0883 showing %. 51%."
+    },
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0889.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 211
+      },
+      "charging": {
+        "state": "Charging menu",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": null,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Charging screen showing 211 mi. Last Charge: Feb 15, 2025 at 7:44 PM, Ritzville WA, $16.33 for 39.835 kWh @ $0.41/kWh."
+    },
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0891(1).PNG",
+      "battery": {
+        "level": 90,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 4,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Charging Complete. 4 mi added during last session. Amp setting 21A."
+    },
+    {
+      "timestamp": "2025-03-04",
+      "source": "screenshot_extracted:IMG_0892.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 211
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 4,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Same as IMG_0891 showing miles. 211 mi. Charge complete."
+    }
+  ]
+}

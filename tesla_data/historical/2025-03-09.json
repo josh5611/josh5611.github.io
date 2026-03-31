@@ -1,0 +1,34 @@
+{
+  "date": "2025-03-09",
+  "summary": {
+    "actual_readings": 0,
+    "total_readings": 1,
+    "screenshot_extractions": 1
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-09",
+      "source": "screenshot_extracted:IMG_1093.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 68
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "COLD BATTERY - snowflake icon. 68 mi. 'Less energy available due to cold battery'. Charge limit 100%. Amp 16A. Significant range loss from cold."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2025-03-08",
+  "summary": {
+    "actual_readings": 1,
+    "total_readings": 4,
+    "screenshot_extractions": 4
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-08",
+      "source": "screenshot_extracted:IMG_1086.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 162
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "162 mi. Charging Complete. Charge limit 100%. Amp setting 21A. Upcoming Appointment - More Information Needed."
+    },
+    {
+      "timestamp": "2025-03-08",
+      "source": "screenshot_extracted:IMG_1088.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 223
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 13,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "223 mi. 13 mi added during last charging session. Amp 21A."
+    },
+    {
+      "timestamp": "2025-03-08",
+      "source": "screenshot_extracted:IMG_1091.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 222
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "222 mi. Charging Complete. Charge limit 100%. Amp 21A. Upcoming Appointment - More Information Needed."
+    },
+    {
+      "timestamp": "2025-03-08",
+      "source": "screenshot_extracted:IMG_1092.PNG",
+      "battery": {
+        "level": 93,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "93%. Charging Complete. Charge limit 100%. Amp 21A."
+    }
+  ]
+}

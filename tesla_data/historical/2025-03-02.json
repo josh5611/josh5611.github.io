@@ -1,0 +1,58 @@
+{
+  "date": "2025-03-02",
+  "summary": {
+    "actual_readings": 1,
+    "total_readings": 2,
+    "screenshot_extractions": 2
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-02",
+      "source": "screenshot_extracted:IMG_0824(1).PNG",
+      "battery": {
+        "level": 48,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 240,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 50,
+        "charge_limit_pct": 90,
+        "time_remaining": "6h 20m"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": "61F",
+      "notes": "Amp setting 25A. Good charge rate of 22 mi/hr at 240V."
+    },
+    {
+      "timestamp": "2025-03-02",
+      "source": "screenshot_extracted:IMG_0825(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 111
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 240,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 50,
+        "charge_limit_pct": 90,
+        "time_remaining": "6h 20m"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": "61F",
+      "notes": "Same moment as IMG_0824 showing miles. 111 mi range while charging."
+    }
+  ]
+}

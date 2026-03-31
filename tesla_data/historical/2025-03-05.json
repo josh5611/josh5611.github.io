@@ -1,0 +1,154 @@
+{
+  "date": "2025-03-05",
+  "summary": {
+    "actual_readings": 6,
+    "total_readings": 6,
+    "screenshot_extractions": 6
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-05",
+      "source": "screenshot_extracted:IMG_0893.PNG",
+      "battery": {
+        "level": 90,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 90,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Charge limit 90%. Amp setting 21A. Upcoming Appointment - Reviewing Vehicle Logs."
+    },
+    {
+      "timestamp": "2025-03-05",
+      "source": "screenshot_extracted:IMG_0894(1).PNG",
+      "battery": {
+        "level": 90,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Charge limit changed to 100%. Amp setting 21A. Upcoming Appointment - Reviewing Vehicle Logs."
+    },
+    {
+      "timestamp": "2025-03-05",
+      "source": "screenshot_extracted:IMG_0895(1).PNG",
+      "battery": {
+        "level": 90,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Charging Complete shown. Still at 90%. Charge limit 100%."
+    },
+    {
+      "timestamp": "2025-03-05",
+      "source": "screenshot_extracted:IMG_0896(1).PNG",
+      "battery": {
+        "level": 90,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Charge limit 100%. Amp setting 21A."
+    },
+    {
+      "timestamp": "2025-03-05",
+      "source": "screenshot_extracted:IMG_0897(1).PNG",
+      "battery": {
+        "level": 90,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Error - No Power",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "CHARGING ERROR - NO POWER. Charge limit 100%. Amp setting 21A. Critical evidence of charging issue."
+    },
+    {
+      "timestamp": "2025-03-05",
+      "source": "screenshot_extracted:IMG_0898(3).PNG",
+      "battery": {
+        "level": 90,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Charging Complete. Back from error. Charge limit 100%."
+    }
+  ]
+}

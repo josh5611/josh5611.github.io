@@ -1,0 +1,82 @@
+{
+  "date": "2025-03-07",
+  "summary": {
+    "actual_readings": 1,
+    "total_readings": 3,
+    "screenshot_extractions": 3
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-07",
+      "source": "screenshot_extracted:IMG_1083.PNG",
+      "battery": {
+        "level": 0,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 95,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "CRITICAL: Battery shows 0% with RED battery icon despite Charging Complete. Charge limit 95%. Amp setting 40A. Software bug evidence - phantom 0% reading."
+    },
+    {
+      "timestamp": "2025-03-07",
+      "source": "screenshot_extracted:IMG_1084.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 210
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 242,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 140,
+        "charge_limit_pct": 100,
+        "time_remaining": "5 min"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Amp setting 30A. 210 mi, +140 mi added. Nearly done charging (5 min remaining)."
+    },
+    {
+      "timestamp": "2025-03-07",
+      "source": "screenshot_extracted:IMG_1085.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 210
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 84,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Charging Complete. 210 mi. Charge limit set at 84%. Amp setting 29A."
+    }
+  ]
+}

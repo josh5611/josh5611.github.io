@@ -1,0 +1,106 @@
+{
+  "date": "2025-03-11",
+  "summary": {
+    "actual_readings": 2,
+    "total_readings": 4,
+    "screenshot_extractions": 4
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-11",
+      "source": "screenshot_extracted:IMG_1209.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 201
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "201 mi. Parked. Charge limit 100%. Amp 20A. Music playing (playback controls visible)."
+    },
+    {
+      "timestamp": "2025-03-11",
+      "source": "screenshot_extracted:IMG_1210.PNG",
+      "battery": {
+        "level": 83,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "83%. Parked. Charge limit 100%. Amp 20A."
+    },
+    {
+      "timestamp": "2025-03-11",
+      "source": "screenshot_extracted:IMG_1211.PNG",
+      "battery": {
+        "level": 83,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": null,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": "72F",
+      "notes": "83%. Climate Keep On, Interior 72F, Window open. Upcoming Appointment - More Information Needed."
+    },
+    {
+      "timestamp": "2025-03-11",
+      "source": "screenshot_extracted:IMG_1212.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 200
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": null,
+        "charge_limit_pct": null,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": "72F",
+      "notes": "200 mi. Climate Keep On, Interior 72F, Window open."
+    }
+  ]
+}

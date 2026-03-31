@@ -1,0 +1,58 @@
+{
+  "date": "2025-03-06",
+  "summary": {
+    "actual_readings": 1,
+    "total_readings": 2,
+    "screenshot_extractions": 2
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-06",
+      "source": "screenshot_extracted:IMG_1081.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 211
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 4,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Photo-in-photo from Photos app showing Yesterday 11:58 AM. Tesla shows 211 mi, Charging Complete, 4 mi added. Amp 21A."
+    },
+    {
+      "timestamp": "2025-03-06",
+      "source": "screenshot_extracted:IMG_1082.PNG",
+      "battery": {
+        "level": 90,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 4,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Photo-in-photo from Photos app showing Yesterday 11:57 AM. Tesla shows 90%, Charging Complete, 4 mi added. Amp 21A."
+    }
+  ]
+}

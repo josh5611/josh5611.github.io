@@ -1,0 +1,106 @@
+{
+  "date": "2025-03-01",
+  "summary": {
+    "actual_readings": 3,
+    "total_readings": 4,
+    "screenshot_extractions": 4
+  },
+  "entries": [
+    {
+      "timestamp": "2025-03-01",
+      "source": "screenshot_extracted:IMG_0810.PNG",
+      "battery": {
+        "level": 66,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 245,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 0,
+        "charge_limit_pct": 100,
+        "time_remaining": "24+ hours"
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Amp setting 38A. Very slow charge rate 3 mi/hr despite 245V."
+    },
+    {
+      "timestamp": "2025-03-01",
+      "source": "screenshot_extracted:IMG_0811.PNG",
+      "battery": {
+        "level": 66,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 241,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 0,
+        "charge_limit_pct": 100,
+        "time_remaining": "Calculating..."
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Amp setting 38A. Still 3 mi/hr charge rate 1 min later. Current ramping up 21/40A."
+    },
+    {
+      "timestamp": "2025-03-01",
+      "source": "screenshot_extracted:IMG_0813.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 194
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 38,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "38 mi added during last charging session. Amp setting 38A."
+    },
+    {
+      "timestamp": "2025-03-01",
+      "source": "screenshot_extracted:IMG_0814.PNG",
+      "battery": {
+        "level": 81,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "charge_energy_added_mi": 38,
+        "charge_limit_pct": 100,
+        "time_remaining": null
+      },
+      "visual": {
+        "green_bar_pct": null,
+        "bar_vs_reported_match": null,
+        "charge_limit_dot_position": null
+      },
+      "interior_temp": null,
+      "notes": "Same moment as IMG_0813 but showing % instead of miles. 38 mi added during last session."
+    }
+  ]
+}
