@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-03-31T15:58:54.271532+00:00",
+  "status": "asleep",
+  "battery": {
+    "level": null,
+    "usable": null,
+    "range_miles": null,
+    "est_range": null,
+    "ideal_range": null
+  },
+  "charging": {
+    "state": null,
+    "charge_rate": null,
+    "charger_power": null,
+    "charger_voltage": null,
+    "charger_actual_current": null,
+    "charge_energy_added": null,
+    "charge_miles_added": null,
+    "time_to_full": null,
+    "charge_limit": null
+  },
+  "climate": {
+    "inside_temp_c": null,
+    "outside_temp_c": null,
+    "is_climate_on": null
+  },
+  "drive": {
+    "speed": null,
+    "power": null,
+    "latitude": null,
+    "longitude": null,
+    "heading": null
+  },
+  "vehicle": {
+    "odometer": null,
+    "locked": null,
+    "firmware": null,
+    "sentry_mode": null
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "GTW_w018_hvacLoadShed",
+        "time": "2025-06-25T18:00:47.829+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+      },
+      {
+        "name": "GTW_w017_accLoadShed",
+        "time": "2025-06-25T18:00:47.827+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+      },
+      {
+        "name": "BMS_w141_SW_12V_Pwr_Supply_Low",
+        "time": "2025-06-25T17:59:52.996+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Power reduced - Unable to charge/Service is required"
+      },
+      {
+        "name": "BMS_w062_SW_Ctr_Pwr_Supply",
+        "time": "2025-06-25T17:59:52.994+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_f062_SW_Ctr_Pwr_Supply",
+        "time": "2025-06-25T17:59:52.992+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "GTW_w404_lvBattReqPermSupport",
+        "time": "2025-06-25T17:59:52.986+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Vehicle will consume more energy while idle/Replace 12V battery or vehicle may shut down"
+      },
+      {
+        "name": "GTW_w177_dead12VBattery",
+        "time": "2025-06-25T17:59:52.981+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Electrical system power low/Charge vehicle or jump 12V battery"
+      },
+      {
+        "name": "GTW_w174_Replace12VBattery",
+        "time": "2025-06-25T17:59:52.981+00:00",
+        "audience": [
+          "customer",
+          "service-fix"
+        ],
+        "user_text": "Schedule service to replace low voltage battery/Software will not update until battery is replaced"
+      },
+      {
+        "name": "GTW_w157_lowVoltageSupportFault",
+        "time": "2025-06-25T17:59:52.979+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Power reduced/Vehicle systems shutting down"
+      }
+    ]
+  }
+}
