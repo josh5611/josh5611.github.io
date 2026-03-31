@@ -1,0 +1,65 @@
+name: Tesla Data Logger
+
+on:
+  schedule:
+    # Run every 5 minutes, 24/7
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  log-tesla-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Poll Tesla API and save data
+        env:
+          TESLA_REFRESH_TOKEN: ${{ secrets.TESLA_REFRESH_TOKEN }}
+        run: python tesla_logger/poll_tesla.py
+
+      - name: Update refresh token secret if rotated
+        if: hashFiles('tesla_data/.new_refresh_token') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          NEW_TOKEN=$(cat tesla_data/.new_refresh_token)
+          if [ -n "$NEW_TOKEN" ]; then
+            echo "Updating TESLA_REFRESH_TOKEN secret..."
+            gh secret set TESLA_REFRESH_TOKEN --body "$NEW_TOKEN"
+            rm tesla_data/.new_refresh_token
+          fi
+
+      - name: Cleanup old raw files (keep 7 days)
+        run: |
+          find tesla_data/raw -name "*.json" -mtime +7 -delete 2>/dev/null || true
+
+      - name: Commit and push data
+        run: |
+          git config user.name "Tesla Logger Bot"
+          git config user.email "tesla-logger@josh5611.github.io"
+          git add tesla_data/
+          if git diff --staged --quiet; then
+            echo "No new data to commit"
+          else
+            BATTERY=$(python -c "import json; d=json.load(open('tesla_data/latest.json')); print(f\"{d['battery']['level']}%\" if d['battery']['level'] else 'N/A')" 2>/dev/null || echo "N/A")
+            STATE=$(python -c "import json; d=json.load(open('tesla_data/latest.json')); print(d.get('charging',{}).get('state','unknown'))" 2>/dev/null || echo "unknown")
+            git commit -m "Tesla: ${BATTERY} | ${STATE} | $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
