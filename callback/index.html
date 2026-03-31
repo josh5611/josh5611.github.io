@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><title>Tesla Auth Callback</title></head>
+<body style="background:#000;color:#0f0;font-family:monospace;padding:40px;">
+<h1>ODB Tesla Auth Callback</h1>
+<div id="status">Processing...</div>
+<pre id="output"></pre>
+<script>
+const params = new URLSearchParams(window.location.search);
+const code = params.get('code');
+const state = params.get('state');
+const el = document.getElementById('output');
+const status = document.getElementById('status');
+
+if (code) {
+    status.textContent = 'AUTH CODE RECEIVED!';
+    el.textContent = 'Code: ' + code + '\nState: ' + state + '\n\nCopy this code and paste it to Claude Code NOW (it expires in seconds):\n\n' + code;
+
+    // Also try to send it to localhost:8080 if running
+    fetch('http://localhost:8080/callback?code=' + code + '&state=' + state)
+        .then(r => r.text())
+        .then(t => { el.textContent += '\n\nLocal app response: ' + t; })
+        .catch(e => { el.textContent += '\n\nLocal app not reachable - paste the code manually'; });
+} else {
+    status.textContent = 'ERROR: No code received';
+    el.textContent = 'URL: ' + window.location.href;
+}
+</script>
+</body>
+</html>
