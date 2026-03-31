@@ -1,0 +1,11 @@
+[
+  {
+    "name": "CP_w041_doorSensorUnplugged",
+    "time": "2026-03-26T06:47:47.888+00:00",
+    "audience": [
+      "customer",
+      "service-fix"
+    ],
+    "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+  }
+]

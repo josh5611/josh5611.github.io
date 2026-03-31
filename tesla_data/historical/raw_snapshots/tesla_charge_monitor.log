@@ -1,0 +1,17 @@
+[2026-03-24 20:54:11.022638] CHANGED: {"port_color": "Green -> Off"}
+[2026-03-24 20:55:11.424131] CHANGED: {"port_color": "Off -> Green"}
+[2026-03-24 20:57:13.256985] CHANGED: {"voltage": "0 -> None", "power": "0 -> None", "port_color": "Green -> <invalid>"}
+[2026-03-24 20:58:13.728344] CHANGED: {"voltage": "None -> 0", "power": "None -> 0", "port_color": "<invalid> -> Green"}
+[2026-03-24 21:00:15.236574] CHANGED: {"voltage": "0 -> None", "power": "0 -> None", "port_color": "Green -> <invalid>"}
+[2026-03-24 21:01:15.839617] CHANGED: {"voltage": "None -> 0", "power": "None -> 0", "port_color": "<invalid> -> Green"}
+[2026-03-24 21:03:17.293053] CHANGED: {"voltage": "0 -> None", "power": "0 -> None", "port_color": "Green -> <invalid>"}
+[2026-03-24 21:04:17.802050] CHANGED: {"voltage": "None -> 0", "power": "None -> 0", "port_color": "<invalid> -> Green"}
+[2026-03-24 21:06:19.228342] CHANGED: {"voltage": "0 -> None", "power": "0 -> None", "port_color": "Green -> <invalid>"}
+[2026-03-24 21:07:19.642184] CHANGED: {"voltage": "None -> 0", "power": "None -> 0", "port_color": "<invalid> -> Green"}
+[2026-03-24 21:08:20.412932] CHANGED: {"charging": "Complete -> Disconnected", "enable": "False -> True", "port_color": "Green -> White"}
+[2026-03-24 21:09:20.891727] CHANGED: {"charging": "Disconnected -> Complete", "port_color": "White -> Green"}
+[2026-03-24 21:15:24.219876] CHANGED: {"voltage": "0 -> None", "power": "0 -> None", "port_color": "Green -> <invalid>"}
+[2026-03-24 21:16:24.812529] CHANGED: {"voltage": "None -> 0", "power": "None -> 0", "port_color": "<invalid> -> Green"}
+[2026-03-24 21:19:27.284054] CHANGED: {"voltage": "0 -> None", "power": "0 -> None", "port_color": "Green -> <invalid>"}
+[2026-03-24 21:20:28.049047] CHANGED: {"voltage": "None -> 0", "power": "None -> 0", "port_color": "<invalid> -> Green"}
+[2026-03-24 21:21:29.271371] CHANGED: {"voltage": "0 -> None", "power": "0 -> None", "port_color": "Green -> <invalid>"}

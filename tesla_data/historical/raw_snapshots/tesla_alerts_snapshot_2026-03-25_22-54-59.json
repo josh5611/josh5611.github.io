@@ -1,0 +1,39 @@
+[
+  {
+    "name": "BMS_u018_SOC_Imbalance_Limiting",
+    "time": "2026-03-25T22:08:20.923+00:00",
+    "audience": [
+      "customer",
+      "service"
+    ],
+    "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+  },
+  {
+    "name": "CP_w041_doorSensorUnplugged",
+    "time": "2026-03-25T19:07:53.890+00:00",
+    "audience": [
+      "customer",
+      "service-fix"
+    ],
+    "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+  },
+  {
+    "name": "CP_w043_doorPotIrrational",
+    "time": "2026-03-25T17:18:33.895+00:00",
+    "audience": [
+      "customer",
+      "service"
+    ],
+    "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+  },
+  {
+    "name": "BMS_w141_SW_12V_Pwr_Supply_Low",
+    "time": "2026-03-25T17:18:09.918+00:00",
+    "audience": [
+      "customer",
+      "service-fix",
+      "factory"
+    ],
+    "user_text": "Power reduced - Unable to charge/Service is required"
+  }
+]
