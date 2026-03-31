@@ -1,0 +1,2454 @@
+{
+  "date": "2026-03-11",
+  "summary": {
+    "actual": 5,
+    "estimated": 113,
+    "total": 118,
+    "battery_min": 94,
+    "battery_max": 100,
+    "battery_start": 100,
+    "battery_end": 94,
+    "actual_readings": 118,
+    "total_readings": 125
+  },
+  "entries": [
+    {
+      "timestamp": "2026-03-11T11:44:00-07:00",
+      "source": "screenshot:IMG_1268",
+      "battery": {
+        "level": null,
+        "range_miles": 211
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 243,
+        "charger_actual_current": "14/40A"
+      },
+      "note": "5min remaining"
+    },
+    {
+      "timestamp": "2026-03-11T11:44:21",
+      "source": "screenshot:Tesla_App_Charging_211mi_5min_Remaining_14of40A_243V_IMG_1268(1).PNG",
+      "estimated": false,
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": 211.0
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 243.0,
+        "charger_actual_current": 14.0,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-11T12:07:00-07:00",
+      "source": "screenshot:IMG_1269",
+      "battery": {
+        "level": null,
+        "range_miles": 216
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 242,
+        "charger_actual_current": "12/40A"
+      },
+      "note": "calculating"
+    },
+    {
+      "timestamp": "2026-03-11T12:07:00-07:00",
+      "source": "screenshot:IMG_1270",
+      "battery": {
+        "level": 94,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 242,
+        "charger_actual_current": "11/40A"
+      },
+      "note": "calculating"
+    },
+    {
+      "timestamp": "2026-03-11T12:07:03",
+      "source": "screenshot:Tesla_App_Charging_216mi_Calculating_12of40A_242V_IMG_1269.PNG",
+      "estimated": false,
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": 216.0
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 242.0,
+        "charger_actual_current": 12.0,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-11T13:27:00-07:00",
+      "source": "screenshot:IMG_1271",
+      "battery": {
+        "level": 100,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null
+      },
+      "note": "+1mi added"
+    },
+    {
+      "timestamp": "2026-03-11T13:27:00-07:00",
+      "source": "screenshot:IMG_1272",
+      "battery": {
+        "level": null,
+        "range_miles": 212
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null
+      },
+      "note": "+1mi added"
+    },
+    {
+      "timestamp": "2026-03-11T13:27:18",
+      "source": "screenshot:Tesla_App_100pct_Charging_Complete_1mi_Added_IMG_1271(1).PNG",
+      "estimated": false,
+      "battery": {
+        "level": 100,
+        "usable": null,
+        "range_miles": 1.0
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-11T13:27:23",
+      "source": "screenshot:Tesla_App_212mi_Charging_Complete_1mi_Added_IMG_1272(3).PNG",
+      "estimated": false,
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": 212.0
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-11T14:31:00-07:00",
+      "source": "screenshot:IMG_1273",
+      "battery": {
+        "level": 94,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null
+      },
+      "note": "+9mi added"
+    },
+    {
+      "timestamp": "2026-03-11T14:31:00-07:00",
+      "source": "screenshot:IMG_1274",
+      "battery": {
+        "level": null,
+        "range_miles": 219
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null
+      },
+      "note": "+9mi added"
+    },
+    {
+      "timestamp": "2026-03-11T14:31:43",
+      "source": "screenshot:Tesla_App_94pct_Charging_Complete_9mi_Added_IMG_1273.PNG",
+      "estimated": false,
+      "battery": {
+        "level": 94,
+        "usable": null,
+        "range_miles": 9.0
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-11T14:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T14:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T14:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T14:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T14:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 94.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T15:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T16:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T17:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T18:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T19:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T20:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T21:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T22:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:01:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:06:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:11:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:16:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:21:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:26:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:31:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:36:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:41:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:46:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:51:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    },
+    {
+      "timestamp": "2026-03-11T23:56:43",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 93.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-11T14:31:43",
+        "end": "2026-03-12T14:22:58.365085"
+      }
+    }
+  ]
+}

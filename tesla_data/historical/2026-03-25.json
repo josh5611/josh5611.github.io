@@ -1,0 +1,5876 @@
+{
+  "date": "2026-03-25",
+  "summary": {
+    "actual": 208,
+    "estimated": 124,
+    "total": 332,
+    "battery_min": 0,
+    "battery_max": 85,
+    "battery_start": 67,
+    "battery_end": 85,
+    "actual_readings": 332,
+    "total_readings": 336
+  },
+  "entries": [
+    {
+      "timestamp": "2026-03-25T00:03:24",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 67,
+        "usable": 33,
+        "range_miles": 3.23
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:03:48",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 67,
+        "usable": null,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:08:26",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": 30,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:08:49",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": null,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:13:28",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": 30,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:13:49",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": null,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:18:30",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": 30,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:18:50",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": null,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:23:31",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": 30,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:23:51",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": null,
+        "range_miles": 2.9
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:28:32",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": 27,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:28:52",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": null,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:33:34",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": 27,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:33:53",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": null,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:38:36",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": 27,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:38:53",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": null,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:43:38",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": 27,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:43:54",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": null,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:48:40",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": 27,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:48:55",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": null,
+        "range_miles": 2.58
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:53:42",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": 23,
+        "range_miles": 2.26
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:53:55",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 60,
+        "usable": null,
+        "range_miles": 2.26
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:58:44",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 57,
+        "usable": 23,
+        "range_miles": 2.26
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T00:58:56",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 57,
+        "usable": null,
+        "range_miles": 2.26
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:03:46",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": 24,
+        "range_miles": 2.26
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:03:57",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": null,
+        "range_miles": 2.26
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:08:48",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": 24,
+        "range_miles": 2.26
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:08:57",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": null,
+        "range_miles": 2.26
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:13:50",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": 21,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:13:58",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": null,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:18:52",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": 21,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:18:58",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": null,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:23:54",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": 21,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:23:59",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": null,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:28:56",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 55,
+        "usable": 21,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:33:40+00:00",
+      "source": "icloud_photo:IMG_1550(1).PNG",
+      "photo_number": 1550,
+      "file_size_kb": 355,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-25T01:33:58",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 55,
+        "usable": 21,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:39:00",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 55,
+        "usable": 17,
+        "range_miles": 1.61
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:44:03",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 55,
+        "usable": 17,
+        "range_miles": 1.61
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:49:05",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 55,
+        "usable": 17,
+        "range_miles": 1.61
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:54:06",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 52,
+        "usable": 17,
+        "range_miles": 1.61
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T01:59:09",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 52,
+        "usable": 17,
+        "range_miles": 1.61
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:04:10",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 52,
+        "usable": 14,
+        "range_miles": 1.29
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:09:13",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 52,
+        "usable": 14,
+        "range_miles": 1.29
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:14:15",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 52,
+        "usable": 14,
+        "range_miles": 1.29
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:19:17",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 52,
+        "usable": 14,
+        "range_miles": 1.29
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:24:19",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 14,
+        "range_miles": 1.29
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:29:21",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 10,
+        "range_miles": 0.97
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:34:23",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 10,
+        "range_miles": 0.97
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:39:25",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 10,
+        "range_miles": 0.97
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:44:27",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 10,
+        "range_miles": 0.97
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:49:29",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:54:31",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T02:59:33",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:04:35",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:09:37",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:14:39",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:19:41",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:24:43",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:29:46",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 7,
+        "range_miles": 0.65
+      },
+      "charging": {
+        "state": "None",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:34:48",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 55,
+        "usable": 18,
+        "range_miles": 1.94
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:39:50",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 0,
+        "usable": 0,
+        "range_miles": 0.0
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:44:52",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 0,
+        "usable": 0,
+        "range_miles": 0.0
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:49:54",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 0,
+        "usable": 0,
+        "range_miles": 0.0
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:54:56",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 35,
+        "usable": 25,
+        "range_miles": 11.29
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T03:59:58",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 24,
+        "usable": 17,
+        "range_miles": 9.76
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:05:00",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 24,
+        "usable": 16,
+        "range_miles": 9.27
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:10:02",
+      "source": "tesla_overnight_monitor.log",
+      "estimated": false,
+      "battery": {
+        "level": 24,
+        "usable": null,
+        "range_miles": 9.27
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:10:07",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 24,
+        "usable": 16,
+        "range_miles": 9.27
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:15:08",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 34,
+        "usable": 30,
+        "range_miles": 24.59
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:20:08",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 34,
+        "usable": 30,
+        "range_miles": 24.59
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:25:09",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 34,
+        "usable": 30,
+        "range_miles": 24.59
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 1.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:30:10",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 34,
+        "usable": 30,
+        "range_miles": 24.59
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:35:12",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 37,
+        "usable": 34,
+        "range_miles": 35.33
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 2.76
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:40:14",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 37,
+        "usable": 34,
+        "range_miles": 35.33
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 2.76
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:45:16",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 37,
+        "usable": 34,
+        "range_miles": 35.33
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 2.76
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:50:18",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 37,
+        "usable": 34,
+        "range_miles": 35.33
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 2.76
+      }
+    },
+    {
+      "timestamp": "2026-03-25T04:55:20",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 44,
+        "usable": 42,
+        "range_miles": 47.41
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 6.51
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:00:25",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 38,
+        "usable": 37,
+        "range_miles": 46.45
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 6.21
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:05:27",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 38,
+        "usable": 37,
+        "range_miles": 46.45
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 6.21
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:10:29",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 43,
+        "usable": 42,
+        "range_miles": 57.51
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 9.64
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:15:31",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 43,
+        "usable": 42,
+        "range_miles": 57.51
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 9.64
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:20:33",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 47,
+        "range_miles": 68.04
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 12.9
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:25:35",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 47,
+        "range_miles": 68.04
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 12.9
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:30:39",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 47,
+        "range_miles": 68.04
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 12.9
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:35:41",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 48,
+        "usable": 47,
+        "range_miles": 68.04
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 12.9
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:40:46",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 49,
+        "usable": 48,
+        "range_miles": 70.6
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 233.0,
+        "charger_actual_current": 40.0,
+        "charge_energy_added": 13.7
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:45:48",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 51,
+        "usable": 50,
+        "range_miles": 73.18
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 233.0,
+        "charger_actual_current": 40.0,
+        "charge_energy_added": 14.61
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:50:51",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 52,
+        "usable": 51,
+        "range_miles": 75.38
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 28.0,
+        "charge_energy_added": 15.18
+      }
+    },
+    {
+      "timestamp": "2026-03-25T05:55:54",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 53,
+        "usable": 52,
+        "range_miles": 77.21
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 236.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 15.75
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:00:56",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 54,
+        "usable": 54,
+        "range_miles": 79.07
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 26.0,
+        "charge_energy_added": 16.32
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:05:58",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 55,
+        "usable": 54,
+        "range_miles": 80.53
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 236.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 16.77
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:11:00",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 56,
+        "usable": 55,
+        "range_miles": 82.01
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 235.0,
+        "charger_actual_current": 24.0,
+        "charge_energy_added": 17.35
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:16:02",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 57,
+        "usable": 57,
+        "range_miles": 83.84
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 235.0,
+        "charger_actual_current": 24.0,
+        "charge_energy_added": 17.8
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:21:04",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 58,
+        "usable": 57,
+        "range_miles": 85.29
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 234.0,
+        "charger_actual_current": 23.0,
+        "charge_energy_added": 18.25
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:26:06",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 59,
+        "usable": 58,
+        "range_miles": 86.78
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 235.0,
+        "charger_actual_current": 23.0,
+        "charge_energy_added": 18.71
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:31:08",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 61,
+        "usable": 60,
+        "range_miles": 90.28
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 235.0,
+        "charger_actual_current": 24.0,
+        "charge_energy_added": 19.8
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:36:10",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 62,
+        "usable": 61,
+        "range_miles": 91.76
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 236.0,
+        "charger_actual_current": 24.0,
+        "charge_energy_added": 20.26
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:41:12",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 62,
+        "usable": 62,
+        "range_miles": 93.22
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 236.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 20.71
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:46:14",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 63,
+        "usable": 63,
+        "range_miles": 94.7
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 23.0,
+        "charge_energy_added": 21.17
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:51:16",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 64,
+        "usable": 63,
+        "range_miles": 96.14
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 23.0,
+        "charge_energy_added": 21.73
+      }
+    },
+    {
+      "timestamp": "2026-03-25T06:56:18",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 65,
+        "usable": 65,
+        "range_miles": 97.99
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 22.0,
+        "charge_energy_added": 22.19
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:01:20",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 66,
+        "usable": 65,
+        "range_miles": 99.07
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 22.0,
+        "charge_energy_added": 22.52
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:06:22",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 67,
+        "usable": 66,
+        "range_miles": 100.55
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 23.0,
+        "charge_energy_added": 22.98
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:11:29",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 68,
+        "usable": 67,
+        "range_miles": 102.0
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 22.0,
+        "charge_energy_added": 23.43
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:16:31",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 69,
+        "usable": 68,
+        "range_miles": 103.48
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 22.0,
+        "charge_energy_added": 23.89
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:21:33",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 69,
+        "usable": 69,
+        "range_miles": 104.92
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 21.0,
+        "charge_energy_added": 24.34
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:26:35",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 70,
+        "usable": 70,
+        "range_miles": 106.4
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 24.0,
+        "charge_energy_added": 24.79
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:31:37",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 71,
+        "usable": 71,
+        "range_miles": 107.84
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 24.0,
+        "charge_energy_added": 25.24
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:36:40",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 72,
+        "usable": 71,
+        "range_miles": 109.32
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 25.7
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:41:44",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 73,
+        "usable": 72,
+        "range_miles": 110.77
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 24.0,
+        "charge_energy_added": 26.15
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:46:45",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 74,
+        "usable": 73,
+        "range_miles": 112.24
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 26.61
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:51:47",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 75,
+        "usable": 74,
+        "range_miles": 114.05
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 27.17
+      }
+    },
+    {
+      "timestamp": "2026-03-25T07:56:49",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 76,
+        "usable": 75,
+        "range_miles": 115.5
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 27.61
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:01:51",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 76,
+        "usable": 76,
+        "range_miles": 116.97
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 240.0,
+        "charger_actual_current": 18.0,
+        "charge_energy_added": 28.07
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:06:53",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 77,
+        "usable": 77,
+        "range_miles": 118.04
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 27.0,
+        "charge_energy_added": 28.4
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:11:55",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.52
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 23.0,
+        "charge_energy_added": 28.86
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:16:57",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:22:01",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:27:01",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:32:03",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:37:06",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:42:07",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:47:10",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:52:14",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T08:57:17",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:02:23",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:07:25",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "None",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:12:27",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:17:30",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "None",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:22:32",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:27:34",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:32:36",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:37:38",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:42:42",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 120.22
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 29.08
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:47:45",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:52:49",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T09:57:55",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:02:58",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:08:01",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:13:05",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:18:09",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:23:11",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:28:12",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:33:16",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:38:18",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:43:20",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:48:22",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:53:24",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T10:58:26",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:03:28",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:08:30",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:13:32",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:18:33",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 78,
+        "range_miles": 119.85
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 1.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 28.96
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:23:36",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 77,
+        "usable": 76,
+        "range_miles": 117.71
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 1.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 28.3
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:28:37",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 76,
+        "usable": 76,
+        "range_miles": 115.93
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 1.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 27.75
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:33:39",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 75,
+        "usable": 74,
+        "range_miles": 112.12
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 1.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 26.57
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:38:40",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 74,
+        "usable": 73,
+        "range_miles": 110.67
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 26.12
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:43:43",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 73,
+        "usable": 73,
+        "range_miles": 109.59
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 25.78
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:48:44",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 73,
+        "usable": 72,
+        "range_miles": 108.15
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 25.34
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:53:44",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 72,
+        "usable": 72,
+        "range_miles": 107.07
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T11:58:46",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 72,
+        "usable": 72,
+        "range_miles": 107.07
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:03:47",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 72,
+        "usable": 72,
+        "range_miles": 107.07
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:08:47",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 72,
+        "usable": 71,
+        "range_miles": 106.7
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:13:48",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 72,
+        "usable": 71,
+        "range_miles": 106.7
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:18:49",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 71,
+        "usable": 71,
+        "range_miles": 106.33
+      },
+      "charging": {
+        "state": "NoPower",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:23:51",
+      "source": "tesla_full_overnight_test.log",
+      "estimated": false,
+      "battery": {
+        "level": 71,
+        "usable": 71,
+        "range_miles": 106.33
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T12:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T13:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T14:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 71.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:41:32+00:00",
+      "source": "icloud_photo:IMG_1551(1).PNG",
+      "photo_number": 1551,
+      "file_size_kb": 350,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-25T15:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T15:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T16:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:24:50+00:00",
+      "source": "icloud_photo:IMG_1552(1).PNG",
+      "photo_number": 1552,
+      "file_size_kb": 350,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-25T17:24:53+00:00",
+      "source": "icloud_photo:IMG_1553(1).PNG",
+      "photo_number": 1553,
+      "file_size_kb": 348,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-25T17:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T17:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T18:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 72.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.1,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T19:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.2,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.3,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.4,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T20:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.5,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.6,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:48:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:53:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.7,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T21:58:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:03:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:08:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:13:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.8,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:18:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:23:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:28:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:33:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 73.9,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:38:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 74.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:43:51",
+      "source": "estimated",
+      "estimated": true,
+      "battery": {
+        "level": 74.0,
+        "usable": null,
+        "range_miles": null
+      },
+      "charging": {
+        "state": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      },
+      "gap": {
+        "start": "2026-03-25T12:23:51",
+        "end": "2026-03-25T22:44:30"
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:44:30",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 74,
+        "usable": 74,
+        "range_miles": 143.47
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 5.36
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:51:39",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 76,
+        "usable": 75,
+        "range_miles": 146.25
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 6.03
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:52:37",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 76,
+        "usable": 75,
+        "range_miles": 146.73
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 26.0,
+        "charge_energy_added": 6.14
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:54:59",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 76,
+        "usable": 76,
+        "range_miles": 114.71
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 26.0,
+        "charge_energy_added": 6.49
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:56:41",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 77,
+        "usable": 76,
+        "range_miles": 148.59
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 27.0,
+        "charge_energy_added": 6.59
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:57:38",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 77,
+        "usable": 76,
+        "range_miles": 149.07
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 27.0,
+        "charge_energy_added": 6.71
+      }
+    },
+    {
+      "timestamp": "2026-03-25T22:59:59",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 77,
+        "range_miles": 116.52
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 27.0,
+        "charge_energy_added": 7.05
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:01:42",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 77,
+        "range_miles": 150.93
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 26.0,
+        "charge_energy_added": 7.15
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:02:39",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 78,
+        "usable": 77,
+        "range_miles": 151.41
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 26.0,
+        "charge_energy_added": 7.27
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:05:00",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 79,
+        "usable": 78,
+        "range_miles": 118.33
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 28.0,
+        "charge_energy_added": 7.61
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:06:44",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 79,
+        "usable": 78,
+        "range_miles": 153.28
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 28.0,
+        "charge_energy_added": 7.71
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:07:39",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 79,
+        "usable": 78,
+        "range_miles": 153.75
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 27.0,
+        "charge_energy_added": 7.83
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:10:02",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 79,
+        "usable": 79,
+        "range_miles": 120.11
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 28.0,
+        "charge_energy_added": 8.16
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:11:46",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 80,
+        "usable": 79,
+        "range_miles": 156.09
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 28.0,
+        "charge_energy_added": 8.39
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:12:40",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 80,
+        "usable": 79,
+        "range_miles": 156.09
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 28.0,
+        "charge_energy_added": 8.39
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:15:04",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 80,
+        "usable": 80,
+        "range_miles": 121.92
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 24.0,
+        "charge_energy_added": 8.72
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:16:48",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 81,
+        "usable": 80,
+        "range_miles": 157.95
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 23.0,
+        "charge_energy_added": 8.84
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:17:41",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 81,
+        "usable": 80,
+        "range_miles": 158.43
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 22.0,
+        "charge_energy_added": 8.95
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:20:06",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 81,
+        "usable": 81,
+        "range_miles": 125.71
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 9.9
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:21:50",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 82,
+        "usable": 81,
+        "range_miles": 162.86
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 236.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 10.01
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:22:42",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 82,
+        "usable": 82,
+        "range_miles": 163.33
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 26.0,
+        "charge_energy_added": 10.13
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:25:08",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 82,
+        "usable": 82,
+        "range_miles": 127.19
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 19.0,
+        "charge_energy_added": 10.36
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:26:50",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 82,
+        "usable": 82,
+        "range_miles": 164.71
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 233.0,
+        "charger_actual_current": 34.0,
+        "charge_energy_added": 10.46
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:27:42",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 83,
+        "usable": 82,
+        "range_miles": 165.19
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 236.0,
+        "charger_actual_current": 31.0,
+        "charge_energy_added": 10.57
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:30:10",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 83,
+        "usable": 83,
+        "range_miles": 128.63
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 18.0,
+        "charge_energy_added": 10.8
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:31:53",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 84,
+        "usable": 83,
+        "range_miles": 166.62
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 242.0,
+        "charger_actual_current": 12.0,
+        "charge_energy_added": 10.92
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:32:44",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 84,
+        "usable": 83,
+        "range_miles": 167.09
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 236.0,
+        "charger_actual_current": 26.0,
+        "charge_energy_added": 11.03
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:35:12",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 84,
+        "usable": 84,
+        "range_miles": 130.06
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 236.0,
+        "charger_actual_current": 25.0,
+        "charge_energy_added": 11.25
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:36:55",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 84,
+        "usable": 84,
+        "range_miles": 168.47
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 21.0,
+        "charge_energy_added": 11.36
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:37:44",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 84,
+        "usable": 84,
+        "range_miles": 168.95
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 21.0,
+        "charge_energy_added": 11.48
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:40:15",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 85,
+        "range_miles": 131.53
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 22.0,
+        "charge_energy_added": 11.7
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:41:57",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 85,
+        "range_miles": 170.33
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 241.0,
+        "charger_actual_current": 18.0,
+        "charge_energy_added": 11.81
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:42:45",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 85,
+        "range_miles": 170.33
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 16.0,
+        "charge_energy_added": 11.81
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:45:17",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 84,
+        "usable": 84,
+        "range_miles": 132.33
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 238.0,
+        "charger_actual_current": 18.0,
+        "charge_energy_added": 11.95
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:46:59",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 84,
+        "usable": 84,
+        "range_miles": 171.41
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 19.0,
+        "charge_energy_added": 12.07
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:47:46",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 84,
+        "usable": 84,
+        "range_miles": 171.88
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 237.0,
+        "charger_actual_current": 17.0,
+        "charge_energy_added": 12.18
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:50:19",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 84,
+        "range_miles": 133.44
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 12.29
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:52:01",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 84,
+        "range_miles": 172.35
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 12.29
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:52:47",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 84,
+        "range_miles": 172.35
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 12.29
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:55:22",
+      "source": "complete_charge_log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 84,
+        "range_miles": 133.44
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239.0,
+        "charger_actual_current": 23.0,
+        "charge_energy_added": 12.29
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:57:01",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 85,
+        "range_miles": 172.83
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 241.0,
+        "charger_actual_current": 17.0,
+        "charge_energy_added": 12.41
+      }
+    },
+    {
+      "timestamp": "2026-03-25T23:57:48",
+      "source": "tesla_charge_log_march25b.log",
+      "estimated": false,
+      "battery": {
+        "level": 85,
+        "usable": 85,
+        "range_miles": 172.83
+      },
+      "charging": {
+        "state": "Complete",
+        "charger_voltage": 0.0,
+        "charger_actual_current": 0.0,
+        "charge_energy_added": 12.41
+      }
+    }
+  ]
+}

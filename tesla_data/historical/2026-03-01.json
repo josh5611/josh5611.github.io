@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-01",
+  "summary": {
+    "actual_readings": 0,
+    "total_readings": 8
+  },
+  "entries": [
+    {
+      "timestamp": "2026-03-01T19:25:51+00:00",
+      "source": "icloud_photo:IMG_0810.PNG",
+      "photo_number": 810,
+      "file_size_kb": 364,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    },
+    {
+      "timestamp": "2026-03-01T19:26:33+00:00",
+      "source": "icloud_photo:IMG_0811.PNG",
+      "photo_number": 811,
+      "file_size_kb": 360,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    },
+    {
+      "timestamp": "2026-03-01T19:38:44+00:00",
+      "source": "icloud_photo:IMG_0812.PNG",
+      "photo_number": 812,
+      "file_size_kb": 931,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    },
+    {
+      "timestamp": "2026-03-01T22:05:04+00:00",
+      "source": "icloud_photo:IMG_0813.PNG",
+      "photo_number": 813,
+      "file_size_kb": 392,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    },
+    {
+      "timestamp": "2026-03-01T22:05:07+00:00",
+      "source": "icloud_photo:IMG_0814.PNG",
+      "photo_number": 814,
+      "file_size_kb": 392,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    },
+    {
+      "timestamp": "2026-03-01T23:00:38+00:00",
+      "source": "icloud_photo:IMG_0815.PNG",
+      "photo_number": 815,
+      "file_size_kb": 1906,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    },
+    {
+      "timestamp": "2026-03-01T23:01:58+00:00",
+      "source": "icloud_photo:IMG_0816.PNG",
+      "photo_number": 816,
+      "file_size_kb": 2149,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    },
+    {
+      "timestamp": "2026-03-01T23:04:30+00:00",
+      "source": "icloud_photo:IMG_0817(1).PNG",
+      "photo_number": 817,
+      "file_size_kb": 2173,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-03-23",
+  "summary": {
+    "actual_readings": 0,
+    "total_readings": 2
+  },
+  "entries": [
+    {
+      "timestamp": "2026-03-23T00:44:30+00:00",
+      "source": "icloud_photo:IMG_1531(1).PNG",
+      "photo_number": 1531,
+      "file_size_kb": 413,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-23T16:16:43+00:00",
+      "source": "icloud_photo:IMG_1537(1).PNG",
+      "photo_number": 1537,
+      "file_size_kb": 313,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    }
+  ]
+}

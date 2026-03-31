@@ -1,0 +1,22 @@
+{
+  "date": "2026-03-08",
+  "summary": {
+    "actual_readings": 0,
+    "total_readings": 1
+  },
+  "entries": [
+    {
+      "timestamp": "2026-03-08T01:52:05+00:00",
+      "source": "icloud_photo:IMG_1093.PNG",
+      "photo_number": 1093,
+      "file_size_kb": 365,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Photo metadata - needs visual review for Tesla data extraction"
+    }
+  ]
+}

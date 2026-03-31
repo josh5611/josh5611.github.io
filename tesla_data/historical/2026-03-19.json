@@ -1,0 +1,347 @@
+{
+  "date": "2026-03-19",
+  "summary": {
+    "actual_readings": 0,
+    "total_readings": 26
+  },
+  "entries": [
+    {
+      "timestamp": "2026-03-19T04:54:05+00:00",
+      "source": "icloud_photo:IMG_1421(1).PNG",
+      "photo_number": 1421,
+      "file_size_kb": 391,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T05:26:35+00:00",
+      "source": "icloud_photo:IMG_1422(1).PNG",
+      "photo_number": 1422,
+      "file_size_kb": 367,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T05:26:40+00:00",
+      "source": "icloud_photo:IMG_1423.PNG",
+      "photo_number": 1423,
+      "file_size_kb": 367,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T07:23:32+00:00",
+      "source": "icloud_photo:IMG_1424.PNG",
+      "photo_number": 1424,
+      "file_size_kb": 346,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T08:10:19+00:00",
+      "source": "icloud_photo:IMG_1428.PNG",
+      "photo_number": 1428,
+      "file_size_kb": 334,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T08:10:25+00:00",
+      "source": "icloud_photo:IMG_1429.PNG",
+      "photo_number": 1429,
+      "file_size_kb": 305,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T08:22:26+00:00",
+      "source": "icloud_photo:IMG_1431.PNG",
+      "photo_number": 1431,
+      "file_size_kb": 320,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T08:23:04+00:00",
+      "source": "icloud_photo:IMG_1432.PNG",
+      "photo_number": 1432,
+      "file_size_kb": 327,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T08:23:27+00:00",
+      "source": "icloud_photo:IMG_1433(1).PNG",
+      "photo_number": 1433,
+      "file_size_kb": 376,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T08:24:13+00:00",
+      "source": "icloud_photo:IMG_1434(1).PNG",
+      "photo_number": 1434,
+      "file_size_kb": 355,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T10:15:16+00:00",
+      "source": "icloud_photo:IMG_1417(1).PNG",
+      "photo_number": 1417,
+      "file_size_kb": 377,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T10:15:16+00:00",
+      "source": "icloud_photo:IMG_1419.PNG",
+      "photo_number": 1419,
+      "file_size_kb": 380,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T10:15:16+00:00",
+      "source": "icloud_photo:IMG_1420.PNG",
+      "photo_number": 1420,
+      "file_size_kb": 385,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T16:07:37+00:00",
+      "source": "icloud_photo:IMG_1436(1).PNG",
+      "photo_number": 1436,
+      "file_size_kb": 328,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T16:08:24+00:00",
+      "source": "icloud_photo:IMG_1437(1).PNG",
+      "photo_number": 1437,
+      "file_size_kb": 322,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T16:12:39+00:00",
+      "source": "icloud_photo:IMG_1443(1).PNG",
+      "photo_number": 1443,
+      "file_size_kb": 390,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T19:55:29+00:00",
+      "source": "icloud_photo:IMG_1459.PNG",
+      "photo_number": 1459,
+      "file_size_kb": 351,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T20:12:29+00:00",
+      "source": "icloud_photo:IMG_1460.PNG",
+      "photo_number": 1460,
+      "file_size_kb": 380,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T20:19:08+00:00",
+      "source": "icloud_photo:IMG_1461(1).PNG",
+      "photo_number": 1461,
+      "file_size_kb": 352,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T20:25:44+00:00",
+      "source": "icloud_photo:IMG_1466(1).PNG",
+      "photo_number": 1466,
+      "file_size_kb": 319,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T20:28:54+00:00",
+      "source": "icloud_photo:IMG_1467(2).PNG",
+      "photo_number": 1467,
+      "file_size_kb": 329,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T20:34:59+00:00",
+      "source": "icloud_photo:IMG_1468(1).PNG",
+      "photo_number": 1468,
+      "file_size_kb": 361,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T20:36:14+00:00",
+      "source": "icloud_photo:IMG_1469(1).PNG",
+      "photo_number": 1469,
+      "file_size_kb": 401,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T23:21:54+00:00",
+      "source": "icloud_photo:IMG_1471.PNG",
+      "photo_number": 1471,
+      "file_size_kb": 307,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T23:22:04+00:00",
+      "source": "icloud_photo:IMG_1472.PNG",
+      "photo_number": 1472,
+      "file_size_kb": 308,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T23:22:28+00:00",
+      "source": "icloud_photo:IMG_1473.PNG",
+      "photo_number": 1473,
+      "file_size_kb": 309,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    }
+  ]
+}

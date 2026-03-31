@@ -1,0 +1,22 @@
+{
+  "date": "2026-03-15",
+  "summary": {
+    "actual_readings": 0,
+    "total_readings": 1
+  },
+  "entries": [
+    {
+      "timestamp": "2026-03-15T10:20:39+00:00",
+      "source": "icloud_photo:IMG_1337(1).PNG",
+      "photo_number": 1337,
+      "file_size_kb": 445,
+      "battery": {
+        "level": null
+      },
+      "charging": {
+        "state": "unknown"
+      },
+      "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    }
+  ]
+}
