@@ -8,8 +8,8 @@
     "battery_max": 85,
     "battery_start": 67,
     "battery_end": 85,
-    "actual_readings": 332,
-    "total_readings": 336
+    "actual_readings": 333,
+    "total_readings": 339
   },
   "entries": [
     {
@@ -3475,6 +3475,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-25T15:41:32+00:00",
+      "source": "screenshot_extracted:IMG_1551(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 155
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": 121
+      },
+      "visual": {
+        "green_bar_pct": 67,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "DISCREPANCY: 155 mi (~67%) Charging Complete at 90% limit. +121 mi added. Green bar ~67%, well short of 90% limit dot."
+    },
+    {
       "timestamp": "2026-03-25T15:43:51",
       "source": "estimated",
       "estimated": true,
@@ -3908,6 +3929,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-25T17:24:50+00:00",
+      "source": "screenshot_extracted:IMG_1552(1).PNG",
+      "battery": {
+        "level": 78,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": 120
+      },
+      "visual": {
+        "green_bar_pct": 78,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "DISCREPANCY: 78% Charging Complete at 90% limit. +120 mi added during session. Bar fills to ~78%, limit dot at ~90%. Green bar clearly does not reach the dot."
+    },
+    {
       "timestamp": "2026-03-25T17:24:53+00:00",
       "source": "icloud_photo:IMG_1553(1).PNG",
       "photo_number": 1553,
@@ -3919,6 +3961,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-25T17:24:53+00:00",
+      "source": "screenshot_extracted:IMG_1553(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 155
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": 120
+      },
+      "visual": {
+        "green_bar_pct": 67,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Same moment as IMG_1552. 155 mi = ~67%. Charging Complete at 90% limit. Bar clearly does not reach limit dot."
     },
     {
       "timestamp": "2026-03-25T17:28:51",

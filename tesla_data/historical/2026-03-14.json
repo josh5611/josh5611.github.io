@@ -1,8 +1,8 @@
 {
   "date": "2026-03-14",
   "summary": {
-    "actual_readings": 0,
-    "total_readings": 2
+    "actual_readings": 1,
+    "total_readings": 4
   },
   "entries": [
     {
@@ -19,6 +19,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-14T19:10:18+00:00",
+      "source": "screenshot_extracted:IMG_1333(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 192
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 100,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": 32
+      },
+      "visual": {
+        "green_bar_pct": 82,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "DISCREPANCY: Charging Complete at 100% limit but only 192 mi (~83%). Green bar visually ~82%, does NOT reach the 100% charge limit dot. Bar clearly short of full."
+    },
+    {
       "timestamp": "2026-03-14T19:10:22+00:00",
       "source": "icloud_photo:IMG_1334(1).PNG",
       "photo_number": 1334,
@@ -30,6 +51,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-14T19:10:22+00:00",
+      "source": "screenshot_extracted:IMG_1334(1).PNG",
+      "battery": {
+        "level": 80,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 100,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": 32
+      },
+      "visual": {
+        "green_bar_pct": 80,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "DISCREPANCY: Charging Complete at 100% limit but only 80%. Green bar visually ~80%, clearly does NOT reach the charge limit dot at 100%. Same moment as IMG_1333 confirming 80% = 192 mi."
     }
   ]
 }

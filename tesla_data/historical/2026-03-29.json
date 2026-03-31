@@ -8,8 +8,8 @@
     "battery_max": 88,
     "battery_start": 88,
     "battery_end": 83,
-    "actual_readings": 289,
-    "total_readings": 293
+    "actual_readings": 291,
+    "total_readings": 297
   },
   "entries": [
     {
@@ -5450,6 +5450,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-29T20:36:55+00:00",
+      "source": "screenshot_extracted:IMG_1597(1).PNG",
+      "battery": {
+        "level": 74,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Starting to charge",
+        "charger_voltage": 0,
+        "charge_limit_pct": 93,
+        "charger_actual_current": 0,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 74,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "RED CHARGE CABLE in car image. Shows 0 kW, +0 kWh, 0/40A, 0V. Charge data in kW/kWh units instead of usual mi/hr. Something wrong with the charging connection. 5G connection. Amp setting 15A."
+    },
+    {
       "timestamp": "2026-03-29T20:37:00+00:00",
       "source": "icloud_photo:IMG_1598.PNG",
       "photo_number": 1598,
@@ -5461,6 +5482,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-29T20:37:00+00:00",
+      "source": "screenshot_extracted:IMG_1598.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 121
+      },
+      "charging": {
+        "state": "Starting to charge",
+        "charger_voltage": 0,
+        "charge_limit_pct": 93,
+        "charger_actual_current": 0,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 53,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "Same moment as IMG_1597. 121 mi. RED cable. 0 kW, +0 kWh, 0/40A, 0V. Charge fault state."
     },
     {
       "timestamp": "2026-03-29T23:20:21+00:00",
@@ -5476,6 +5518,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-29T23:20:21+00:00",
+      "source": "screenshot_extracted:IMG_1599.PNG",
+      "battery": {
+        "level": 76,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Starting to charge",
+        "charger_voltage": 0,
+        "charge_limit_pct": 93,
+        "charger_actual_current": 0,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 76,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "RED cable still. 76% now (was 74% at 1:36). 0 kW, +3 kWh, 0/40A, 0V. Gained 2% in ~3 hours but shows 0V/0A. Very slow trickle somehow."
+    },
+    {
       "timestamp": "2026-03-29T23:20:26+00:00",
       "source": "icloud_photo:IMG_1600(1).PNG",
       "photo_number": 1600,
@@ -5487,6 +5550,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-29T23:20:26+00:00",
+      "source": "screenshot_extracted:IMG_1600(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 131
+      },
+      "charging": {
+        "state": "Starting to charge",
+        "charger_voltage": 0,
+        "charge_limit_pct": 93,
+        "charger_actual_current": 0,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 57,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "Same as IMG_1599. 131 mi (was 121 at 1:36). RED cable. +3 kWh shown. Still stuck in 'Starting to charge' for nearly 3 hours."
     }
   ]
 }

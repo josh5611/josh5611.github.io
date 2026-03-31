@@ -1,9 +1,9 @@
 {
   "date": "2026-03-30",
   "summary": {
-    "actual_readings": 38,
+    "actual_readings": 41,
     "estimated_readings": 38,
-    "total_readings": 46,
+    "total_readings": 51,
     "alerts_count": 0,
     "source": "historical_import",
     "imported_at": "2026-03-31T16:05:39.926620+00:00",
@@ -83,6 +83,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-30T02:10:40+00:00",
+      "source": "screenshot_extracted:IMG_1601(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 132
+      },
+      "charging": {
+        "state": "Charging Stopped",
+        "charger_voltage": null,
+        "charge_limit_pct": 93,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 57,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "RED cable. Charging Stopped at 132 mi. Charge limit 93% but only at ~57%. Button says 'Start Charging'. 5G connection. The charge session failed."
+    },
+    {
       "timestamp": "2026-03-30T02:10:43+00:00",
       "source": "icloud_photo:IMG_1602.PNG",
       "photo_number": 1602,
@@ -94,6 +115,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-30T02:10:43+00:00",
+      "source": "screenshot_extracted:IMG_1602.PNG",
+      "battery": {
+        "level": 77,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Stopped",
+        "charger_voltage": null,
+        "charge_limit_pct": 93,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 77,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Same as IMG_1601. 77% shown. Charging Stopped. RED cable. Limit 93% but stopped at 77%. Green bar at 77%, limit dot at 93%."
     },
     {
       "timestamp": "2026-03-30T02:43:30.924791+00:00",
@@ -137,6 +179,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-30T03:33:28+00:00",
+      "source": "screenshot_extracted:IMG_1603.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 132
+      },
+      "charging": {
+        "state": "Charging Stopped",
+        "charger_voltage": null,
+        "charge_limit_pct": 93,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 57,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Still Charging Stopped at 132 mi. RED cable. 1.5 hours later, no change. 5G."
+    },
+    {
       "timestamp": "2026-03-30T03:33:31+00:00",
       "source": "icloud_photo:IMG_1604(1).PNG",
       "photo_number": 1604,
@@ -148,6 +211,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-30T03:33:31+00:00",
+      "source": "screenshot_extracted:IMG_1604(1).PNG",
+      "battery": {
+        "level": 77,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Stopped",
+        "charger_voltage": null,
+        "charge_limit_pct": 93,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 77,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Same as IMG_1603. 77%. Charging Stopped. RED cable persists."
     },
     {
       "timestamp": "2026-03-30T03:58:52.029613+00:00",
@@ -508,6 +592,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-30T17:43:51+00:00",
+      "source": "screenshot_extracted:IMG_1609.PNG",
+      "battery": {
+        "level": 64,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 64,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "SEVERE DISCREPANCY: 64% Charging Complete at 90% limit. Green bar at ~64%, limit dot at ~90%. Climate shows 'Windows open'. The car lost charge from 77% (Charging Stopped) to 64% (Charging Complete) - it actually LOST 13% and then declared itself done."
     },
     {
       "timestamp": "2026-03-30T17:47:44.182653+00:00",

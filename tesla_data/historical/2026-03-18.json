@@ -2,7 +2,7 @@
   "date": "2026-03-18",
   "summary": {
     "actual_readings": 0,
-    "total_readings": 16
+    "total_readings": 32
   },
   "entries": [
     {
@@ -19,6 +19,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-18T03:57:14+00:00",
+      "source": "screenshot_extracted:IMG_1391(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 2
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 50,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 1,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "CRITICAL BMS BUG: Battery icon RED, only 2 mi range, but says 'Charging Complete' at 50% limit. Green bar is essentially EMPTY. The bar shows virtually no fill. This is the most extreme discrepancy - the BMS thinks it is at 50% when it is at ~1%."
+    },
+    {
       "timestamp": "2026-03-18T04:00:54+00:00",
       "source": "icloud_photo:IMG_1392.PNG",
       "photo_number": 1392,
@@ -30,6 +51,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-18T04:00:54+00:00",
+      "source": "screenshot_extracted:IMG_1392.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 2
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 85,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 1,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "CRITICAL BMS BUG: Same 2 mi/RED battery but now charge limit raised to 85% and STILL says Charging Complete. User appears to be raising the limit to test if charging resumes - it doesn't. Bar essentially empty, tiny red sliver."
     },
     {
       "timestamp": "2026-03-18T04:01:05+00:00",
@@ -45,6 +87,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-18T04:01:05+00:00",
+      "source": "screenshot_extracted:IMG_1393(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 2
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 98,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 1,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "CRITICAL BMS BUG: Still 2 mi, limit now 98%, still says Charging Complete. User systematically raising limit - BMS won't resume charging. Bar empty."
+    },
+    {
       "timestamp": "2026-03-18T04:01:10+00:00",
       "source": "icloud_photo:IMG_1394(2).PNG",
       "photo_number": 1394,
@@ -56,6 +119,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-18T04:01:10+00:00",
+      "source": "screenshot_extracted:IMG_1394(2).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 2
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 100,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 1,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "CRITICAL BMS BUG: MAXIMUM DISCREPANCY. 2 mi range (~1%), charge limit 100%, says Charging Complete. The BMS firmware believes the battery is FULL when it is essentially EMPTY. This is the smoking gun for the software bug."
     },
     {
       "timestamp": "2026-03-18T05:07:19+00:00",
@@ -71,6 +155,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-18T05:07:19+00:00",
+      "source": "screenshot_extracted:IMG_1395(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 5
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charge_limit_pct": 100,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": 3
+      },
+      "visual": {
+        "green_bar_pct": 2,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "After the charging complete bug, car now shows 5 mi with '3 mi added during last charging session'. So the entire session only added 3 mi despite 100% limit. Battery icon still RED. Bar nearly empty. Close Charge Port shown (unplugged?)."
+    },
+    {
       "timestamp": "2026-03-18T05:08:07+00:00",
       "source": "icloud_photo:IMG_1396(1).PNG",
       "photo_number": 1396,
@@ -82,6 +187,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-18T05:08:07+00:00",
+      "source": "screenshot_extracted:IMG_1396(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 5
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 100,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 2,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "CRITICAL: Plugged back in, still says Charging Complete at 5 mi with 100% limit. BMS will not charge the car. Bar shows tiny red sliver."
     },
     {
       "timestamp": "2026-03-18T06:59:51+00:00",
@@ -97,6 +223,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-18T06:59:51+00:00",
+      "source": "screenshot_extracted:IMG_1397.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 20
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 100,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": 14
+      },
+      "visual": {
+        "green_bar_pct": 8,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Airplane mode on. 'Check internet connection' message. Now 20 mi, 14 mi added. Still Charging Complete at 100% limit. Bar shows small orange/yellow fill ~8%. The car managed to add some miles but stopped again well below limit."
+    },
+    {
       "timestamp": "2026-03-18T07:46:21+00:00",
       "source": "icloud_photo:IMG_1398(1).PNG",
       "photo_number": 1398,
@@ -108,6 +255,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-18T07:46:21+00:00",
+      "source": "screenshot_extracted:IMG_1398(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 22
+      },
+      "charging": {
+        "state": "Starting to charge",
+        "charger_voltage": 250,
+        "charge_limit_pct": 50,
+        "charger_actual_current": 0,
+        "charge_rate_mi_hr": 0,
+        "miles_added": 0
+      },
+      "visual": {
+        "green_bar_pct": 9,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Charging resumed! 'Starting to charge' at 22 mi. Limit set to 50%. 0 mi/hr, 0/40A, 250V - just initiating. Bar shows small orange fill. Battery icon still low but green lightning bolt."
     },
     {
       "timestamp": "2026-03-18T07:46:32+00:00",
@@ -123,6 +291,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-18T07:46:32+00:00",
+      "source": "screenshot_extracted:IMG_1399.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 22
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 243,
+        "charge_limit_pct": 50,
+        "charger_actual_current": 16,
+        "charge_rate_mi_hr": 14,
+        "miles_added": 0
+      },
+      "visual": {
+        "green_bar_pct": 9,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Charging now active at 14 mi/hr, 16/40A, 243V. 5h 10m remaining to 50% limit. Battery icon low but green."
+    },
+    {
       "timestamp": "2026-03-18T07:47:14+00:00",
       "source": "icloud_photo:IMG_1400.PNG",
       "photo_number": 1400,
@@ -134,6 +323,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-18T07:47:14+00:00",
+      "source": "screenshot_extracted:IMG_1400.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 22
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 243,
+        "charge_limit_pct": 90,
+        "charger_actual_current": 20,
+        "charge_rate_mi_hr": 18,
+        "miles_added": 0
+      },
+      "visual": {
+        "green_bar_pct": 9,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Limit raised to 90%. Charging rate increased to 18 mi/hr, 20/40A. Bar still tiny."
     },
     {
       "timestamp": "2026-03-18T07:49:00+00:00",
@@ -149,6 +359,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-18T07:49:00+00:00",
+      "source": "screenshot_extracted:IMG_1402.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 23
+      },
+      "charging": {
+        "state": "Calculating",
+        "charger_voltage": 243,
+        "charge_limit_pct": 90,
+        "charger_actual_current": 20,
+        "charge_rate_mi_hr": 18,
+        "miles_added": 1
+      },
+      "visual": {
+        "green_bar_pct": 10,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Snowflake icon visible - cold battery warning. 'Less energy available due to cold battery' message. Status says 'Calculating'. +1 mi added. 23 mi total."
+    },
+    {
       "timestamp": "2026-03-18T17:29:31+00:00",
       "source": "icloud_photo:IMG_1403(1).PNG",
       "photo_number": 1403,
@@ -160,6 +391,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-18T17:29:31+00:00",
+      "source": "screenshot_extracted:IMG_1403(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 31
+      },
+      "charging": {
+        "state": "Starting to charge",
+        "charger_voltage": null,
+        "charge_limit_pct": null,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 13,
+        "bar_vs_reported_match": "UNCLEAR"
+      },
+      "notes": "Scrolled down showing Controls, Climate (61F), Location, Summon, Charging menu items. Status 'Starting to charge' at 31 mi. Battery icon low green."
     },
     {
       "timestamp": "2026-03-18T17:29:45+00:00",
@@ -175,6 +427,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-18T17:29:45+00:00",
+      "source": "screenshot_extracted:IMG_1404.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 31
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 241,
+        "charge_limit_pct": 90,
+        "charger_actual_current": 16,
+        "charge_rate_mi_hr": 13,
+        "miles_added": 0
+      },
+      "visual": {
+        "green_bar_pct": 13,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Charging at 13 mi/hr, 16/40A, 241V. 12h 55m to 90% limit. Bar ~13% matches the ~13% actual (31 mi out of ~230 max)."
+    },
+    {
       "timestamp": "2026-03-18T17:31:31+00:00",
       "source": "icloud_photo:IMG_1405.PNG",
       "photo_number": 1405,
@@ -186,6 +459,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-18T17:31:31+00:00",
+      "source": "screenshot_extracted:IMG_1405.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 32
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 241,
+        "charge_limit_pct": 90,
+        "charger_actual_current": 20,
+        "charge_rate_mi_hr": 18,
+        "miles_added": 0
+      },
+      "visual": {
+        "green_bar_pct": 14,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "2 min later, now 32 mi. Rate up to 18 mi/hr, 20/40A. Bar still small but proportional to ~14%."
     },
     {
       "timestamp": "2026-03-18T18:56:42+00:00",
@@ -201,6 +495,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-18T18:56:42+00:00",
+      "source": "screenshot_extracted:IMG_1406.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 58
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 241,
+        "charge_limit_pct": 90,
+        "charger_actual_current": 12,
+        "charge_rate_mi_hr": 10,
+        "miles_added": 26
+      },
+      "visual": {
+        "green_bar_pct": 25,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "Now at 58 mi, +26 mi added. Amp setting reduced to 12A (12/12A - drawing full available). Rate dropped to 10 mi/hr. 19h 50m remaining at this lower rate."
+    },
+    {
       "timestamp": "2026-03-18T21:06:22+00:00",
       "source": "icloud_photo:IMG_1408.PNG",
       "photo_number": 1408,
@@ -212,6 +527,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-18T21:06:22+00:00",
+      "source": "screenshot_extracted:IMG_1408.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 82
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 240,
+        "charge_limit_pct": 90,
+        "charger_actual_current": 12,
+        "charge_rate_mi_hr": 10,
+        "miles_added": 50
+      },
+      "visual": {
+        "green_bar_pct": 35,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "82 mi, +50 mi added. Still at 12A, 10 mi/hr. Green bar ~35% proportional to actual."
     }
   ]
 }

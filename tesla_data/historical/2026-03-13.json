@@ -1,8 +1,8 @@
 {
   "date": "2026-03-13",
   "summary": {
-    "actual_readings": 0,
-    "total_readings": 15
+    "actual_readings": 1,
+    "total_readings": 17
   },
   "entries": [
     {
@@ -188,6 +188,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-13T23:54:09+00:00",
+      "source": "screenshot_extracted:IMG_1323(1).PNG",
+      "battery": {
+        "level": 78,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239,
+        "charge_limit_pct": 100,
+        "charger_actual_current": 20,
+        "charge_rate_mi_hr": 18,
+        "miles_added": 20
+      },
+      "visual": {
+        "green_bar_pct": 78,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "Lightning bolt icon showing active charge. FSD referral banner at top."
+    },
+    {
       "timestamp": "2026-03-13T23:54:11+00:00",
       "source": "icloud_photo:IMG_1324(1).PNG",
       "photo_number": 1324,
@@ -199,6 +220,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-13T23:54:11+00:00",
+      "source": "screenshot_extracted:IMG_1324(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 181
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 239,
+        "charge_limit_pct": 100,
+        "charger_actual_current": 20,
+        "charge_rate_mi_hr": 18,
+        "miles_added": 20
+      },
+      "visual": {
+        "green_bar_pct": 78,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "Same moment as IMG_1323 but showing miles instead of %. 181 mi = ~78% tracks."
     }
   ]
 }

@@ -8,8 +8,8 @@
     "battery_max": null,
     "battery_start": null,
     "battery_end": null,
-    "actual_readings": 0,
-    "total_readings": 7
+    "actual_readings": 1,
+    "total_readings": 9
   },
   "entries": [
     {
@@ -65,6 +65,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-20T02:47:30+00:00",
+      "source": "screenshot_extracted:IMG_1482.PNG",
+      "battery": {
+        "level": 24,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 24,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "SEVERE DISCREPANCY: 24% shown, Charging Complete at 90% limit. Green bar fills to ~24%, charge limit dot at ~90%. The car thinks it is fully charged to its limit when it is barely a quarter full. Amp setting at 40A."
+    },
+    {
       "timestamp": "2026-03-20T02:47:37+00:00",
       "source": "icloud_photo:IMG_1483.PNG",
       "photo_number": 1483,
@@ -76,6 +97,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-20T02:47:37+00:00",
+      "source": "screenshot_extracted:IMG_1483.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 24
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 10,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Same moment as IMG_1482. 24 mi. Charging Complete at 90% limit. 24 mi is roughly 10% of max range. Green bar tiny. Massive BMS failure."
     },
     {
       "timestamp": "2026-03-20T10:42:18.902404",

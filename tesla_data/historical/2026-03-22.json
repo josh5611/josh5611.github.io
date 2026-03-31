@@ -2,7 +2,7 @@
   "date": "2026-03-22",
   "summary": {
     "actual_readings": 0,
-    "total_readings": 1
+    "total_readings": 2
   },
   "entries": [
     {
@@ -17,6 +17,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-22T21:00:51+00:00",
+      "source": "screenshot_extracted:IMG_1529.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 116
+      },
+      "charging": {
+        "state": "Charging",
+        "charger_voltage": 235,
+        "charge_limit_pct": 90,
+        "charger_actual_current": 30,
+        "charge_rate_mi_hr": 27,
+        "miles_added": 110
+      },
+      "visual": {
+        "green_bar_pct": 50,
+        "bar_vs_reported_match": "YES"
+      },
+      "notes": "Good charging session. 116 mi, +110 mi added. 27 mi/hr at 30/40A, 235V. Healthy charge rate. Green bar ~50% matches."
     }
   ]
 }

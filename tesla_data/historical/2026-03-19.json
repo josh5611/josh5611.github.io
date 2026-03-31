@@ -1,8 +1,8 @@
 {
   "date": "2026-03-19",
   "summary": {
-    "actual_readings": 0,
-    "total_readings": 26
+    "actual_readings": 1,
+    "total_readings": 29
   },
   "entries": [
     {
@@ -19,6 +19,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-19T04:54:05+00:00",
+      "source": "screenshot_extracted:IMG_1421(1).PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 129
+      },
+      "charging": {
+        "state": "Parked",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": 97
+      },
+      "visual": {
+        "green_bar_pct": 55,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Airplane mode on. 'Check internet connection'. 129 mi, 97 mi added. Charge limit 90% but bar only ~55%. Close Charge Port visible. Charging seems to have stopped/completed short of 90% limit."
+    },
+    {
       "timestamp": "2026-03-19T05:26:35+00:00",
       "source": "icloud_photo:IMG_1422(1).PNG",
       "photo_number": 1422,
@@ -32,6 +53,27 @@
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
     },
     {
+      "timestamp": "2026-03-19T05:26:35+00:00",
+      "source": "screenshot_extracted:IMG_1422(1).PNG",
+      "battery": {
+        "level": 71,
+        "range_miles": null
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 71,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "DISCREPANCY: 71% shown, Charging Complete, but limit is 90%. Green bar clearly stops well before the charge limit dot. The bar fills to ~71% mark but the dot sits at ~90%. 5G connectivity."
+    },
+    {
       "timestamp": "2026-03-19T05:26:40+00:00",
       "source": "icloud_photo:IMG_1423.PNG",
       "photo_number": 1423,
@@ -43,6 +85,27 @@
         "state": "unknown"
       },
       "note": "Likely Tesla app screenshot (300-400KB PNG) - needs visual review"
+    },
+    {
+      "timestamp": "2026-03-19T05:26:40+00:00",
+      "source": "screenshot_extracted:IMG_1423.PNG",
+      "battery": {
+        "level": null,
+        "range_miles": 130
+      },
+      "charging": {
+        "state": "Charging Complete",
+        "charger_voltage": null,
+        "charge_limit_pct": 90,
+        "charger_actual_current": null,
+        "charge_rate_mi_hr": null,
+        "miles_added": null
+      },
+      "visual": {
+        "green_bar_pct": 56,
+        "bar_vs_reported_match": "NO"
+      },
+      "notes": "Same moment as IMG_1422. 130 mi = ~56% of max ~230 mi. Charging Complete at 90% limit. Green bar visually ~56%, well short of the 90% limit dot."
     },
     {
       "timestamp": "2026-03-19T07:23:32+00:00",
