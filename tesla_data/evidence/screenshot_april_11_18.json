@@ -1,0 +1,72 @@
+{
+  "description": "Tesla App screenshots from iPhone - April 11-18, 2026. Extracted by Claude from iCloudPhotos.",
+  "generated_at": "2026-04-18T20:45:00Z",
+  "vin": "5YJSA1H25EFP67580",
+  "vehicle_name": "Fuck opec",
+  "firmware": "2025.38.12",
+  "source_dir": "C:/Users/joshb/iCloudPhotos/Photos/",
+  "entries": [
+    {"date": "2026-04-11", "time": "13:15", "file": "IMG_1755.PNG", "battery_pct": 72, "miles": null, "status": "Charging Complete", "notes": "6 mi added, charge limit 90%"},
+    {"date": "2026-04-12", "time": "15:26", "file": "IMG_1762(2).PNG", "battery_pct": null, "miles": 137, "status": "Parked", "notes": "Charge limit 90%, Interior 73°F"},
+    {"date": "2026-04-15", "time": "14:38", "file": "IMG_1784.PNG", "battery_pct": 73, "miles": null, "status": "Charging", "notes": "9 mi/hr, +4 mi, 10/40A, 245V, limit 90%"},
+    {"date": "2026-04-15", "time": "14:42", "file": "IMG_1786.PNG", "battery_pct": null, "miles": 145, "status": "Charging", "notes": "9 mi/hr, +5 mi, 10/40A, 246V, limit 90%"},
+    {"date": "2026-04-15", "time": "16:08", "file": "IMG_1792(2).PNG", "battery_pct": null, "miles": 158, "status": "Charging", "notes": "9 mi/hr, +18 mi, 10/40A, 243V, limit 90%"},
+    {"date": "2026-04-15", "time": "17:37", "file": "IMG_1798(1).PNG", "battery_pct": null, "miles": 153, "status": "Driving/Parked", "notes": "0 MPH, Climate Active 73°F"},
+    {"date": "2026-04-15", "time": "17:37", "file": "IMG_1799(2).PNG", "battery_pct": 86, "miles": null, "status": "Driving/Parked", "notes": "0 MPH, Climate Active 73°F"},
+    {"date": "2026-04-16", "time": "16:20", "file": "IMG_1810(1).PNG", "battery_pct": 85, "miles": null, "status": "Charging", "notes": "17 mi/hr, +2 mi, 40/40A, 234V, limit 95%"},
+    {"date": "2026-04-16", "time": "16:22", "file": "IMG_1813(2).PNG", "battery_pct": 86, "miles": null, "status": "Charging", "notes": "0 mi/hr, +3 mi, 4/40A, 247V, limit 95%"},
+    {"date": "2026-04-16", "time": "20:22", "file": "IMG_1818(2).PNG", "battery_pct": null, "miles": 136, "status": "Charging Complete", "notes": "Limit 95%, Interior 62°F"},
+    {"date": "2026-04-17", "time": "09:50", "file": "IMG_1820.PNG", "battery_pct": 92, "miles": null, "status": "Charging Complete", "notes": "69 mi added during last session, limit 95%"},
+    {"date": "2026-04-17", "time": "10:27", "file": "IMG_1822(1).PNG", "battery_pct": 92, "miles": null, "status": "Starting to charge", "notes": "0 mi/hr, 0/40A, 245V, limit 99%"},
+    {"date": "2026-04-17", "time": "10:27", "file": "IMG_1823(1).PNG", "battery_pct": null, "miles": 205, "status": "Charging", "notes": "4 mi/hr, 6/40A, 244V, 9h 15m remaining, limit 99%"},
+    {"date": "2026-04-17", "time": "10:31", "file": "IMG_1824(1).PNG", "battery_pct": null, "miles": 206, "status": "Charging", "notes": "8 mi/hr, 10/40A, 241V, 6h 30m remaining, limit 99%"},
+    {"date": "2026-04-17", "time": "10:37", "file": "IMG_1829.PNG", "battery_pct": 92, "miles": null, "status": "Charging", "notes": "4 mi/hr, 5/40A, 243V, Calculating..."},
+    {"date": "2026-04-17", "time": "10:47", "file": "IMG_1831(1).PNG", "battery_pct": 92, "miles": null, "status": "Parked", "notes": "5A, charge limit 99%"},
+    {"date": "2026-04-17", "time": "16:06", "file": "IMG_1835(1).PNG", "battery_pct": 80, "miles": null, "status": "Parked", "notes": "COLD BATTERY ICON shown. Climate Active Interior 77°F. Same time as 30 mi reading."},
+    {"date": "2026-04-17", "time": "16:06", "file": "IMG_1836.PNG", "battery_pct": null, "miles": 30, "status": "Parked", "notes": "COLD BATTERY ICON. Climate Active Interior 77°F. SMOKING GUN: 80% should be ~160 mi, showing 30."},
+    {"date": "2026-04-17", "time": "17:07", "file": "IMG_1840.PNG", "battery_pct": null, "miles": 30, "status": "Parked", "notes": "HOME SCREEN WIDGET. S Ivory St 634. Spokane weather 55°F Cloudy. Friday Apr 17."},
+    {"date": "2026-04-17", "time": "17:07", "file": "IMG_1841(1).PNG", "battery_pct": null, "miles": 30, "status": "Last seen an hour ago", "notes": "COLD BATTERY warning. 'Less energy available due to cold battery'. 55°F is NOT cold."},
+    {"date": "2026-04-17", "time": "18:25", "file": "IMG_1846(1).PNG", "battery_pct": null, "miles": 30, "status": "Last seen 2 hours ago", "notes": "COLD BATTERY warning persists. 'Less energy available due to cold battery'. Still 30 mi."},
+    {"date": "2026-04-17", "time": "22:06", "file": "IMG_1855.PNG", "battery_pct": null, "miles": 168, "status": "Parked", "notes": "RANGE JUMPED FROM 30 TO 168 MI WITH NO CHARGING. Charge limit 99%."},
+    {"date": "2026-04-17", "time": "22:06", "file": "IMG_1856(2).PNG", "battery_pct": 87, "miles": null, "status": "Parked", "notes": "Battery went from 80% to 87% with NO CHARGING. Impossible."},
+    {"date": "2026-04-17", "time": "22:12", "file": "IMG_1858.PNG", "battery_pct": null, "miles": 171, "status": "Parked", "notes": "Range still climbing. No charger connected."},
+    {"date": "2026-04-17", "time": "22:12", "file": "IMG_1859.PNG", "battery_pct": 86, "miles": null, "status": "Parked", "notes": "Dropped 1% in 6 minutes (87->86). BMS recalculating."},
+    {"date": "2026-04-18", "time": "00:02", "file": "IMG_1860.PNG", "battery_pct": null, "miles": 178, "status": "Parked", "notes": "Range still going UP without charging. 30->178 mi in 8 hours."},
+    {"date": "2026-04-18", "time": "00:02", "file": "IMG_1861.PNG", "battery_pct": 82, "miles": null, "status": "Parked", "notes": "Now dropping from 87 to 82 without driving. BMS unstable."},
+    {"date": "2026-04-18", "time": "00:03", "file": "IMG_1862(1).PNG", "battery_pct": null, "miles": 180, "status": "Parked", "notes": "Range 180 mi at 81%."},
+    {"date": "2026-04-18", "time": "00:03", "file": "IMG_1863.PNG", "battery_pct": 81, "miles": null, "status": "Parked", "notes": "81% showing 180 mi. Earlier 80% showed 30 mi. SAME BATTERY, 6X RANGE DIFFERENCE."},
+    {"date": "2026-04-18", "time": "06:50", "file": "IMG_1864(1).PNG", "battery_pct": null, "miles": 182, "status": "Parked", "notes": "182 mi. Overnight no charging, range went UP from 178 to 182."},
+    {"date": "2026-04-18", "time": "06:50", "file": "IMG_1865(1).PNG", "battery_pct": 79, "miles": null, "status": "Parked", "notes": "79% at 182 mi. Yesterday 80% was 30 mi. Today 79% is 182 mi."},
+    {"date": "2026-04-18", "time": "09:47", "file": "IMG_1870(1).PNG", "battery_pct": null, "miles": 181, "status": "Parked", "notes": "181 mi stable."},
+    {"date": "2026-04-18", "time": "09:47", "file": "IMG_1871(2).PNG", "battery_pct": 79, "miles": null, "status": "Parked", "notes": "79% at 181 mi. Consistent now but yesterday was broken."},
+    {"date": "2026-04-18", "time": "12:59", "file": "IMG_1874.PNG", "battery_pct": 79, "miles": null, "status": "Parked", "notes": "79%. Software Update available - connect to WiFi."},
+    {"date": "2026-04-18", "time": "12:59", "file": "IMG_1875(1).PNG", "battery_pct": null, "miles": 181, "status": "Parked", "notes": "181 mi. Software Update available."}
+  ],
+  "analysis": {
+    "smoking_gun_event": {
+      "date": "2026-04-17",
+      "description": "At 4:06 PM, car shows 80% battery but only 30 miles range with false 'cold battery' warning. Outside temp was 55°F (not cold). Interior was 77°F with climate running. At 80%, rated range should be approximately 160 miles. The BMS firmware (2025.38.12) falsely detected cold battery conditions and suppressed 81% of available range.",
+      "range_shown": 30,
+      "range_expected": 160,
+      "range_suppression_pct": 81.25,
+      "battery_pct": 80,
+      "outside_temp_f": 55,
+      "inside_temp_f": 77,
+      "false_cold_battery_warning": true
+    },
+    "phantom_recovery": {
+      "description": "Between 4:06 PM and 10:06 PM on April 17, with NO charging, the car went from 80%/30mi to 87%/168mi. Battery percentage increased 7% and range increased 460% without any energy input. This is physically impossible and proves the BMS readings are software-fabricated, not based on actual battery state.",
+      "before": {"time": "16:06", "battery_pct": 80, "miles": 30},
+      "after": {"time": "22:06", "battery_pct": 87, "miles": 168},
+      "charging_during_period": false,
+      "battery_increase_pct": 7,
+      "range_increase_pct": 460
+    },
+    "continued_instability": {
+      "description": "After the phantom recovery, battery continued fluctuating: 87% at 10:06 PM -> 86% at 10:12 PM -> 82% at 12:02 AM -> 81% at 12:03 AM -> 79% at 6:50 AM. Range went from 168 -> 171 -> 178 -> 180 -> 182 mi. Battery dropping while range increasing is thermodynamically impossible.",
+      "battery_trend": "87 -> 86 -> 82 -> 81 -> 79 (dropping)",
+      "range_trend": "168 -> 171 -> 178 -> 180 -> 182 (increasing)",
+      "contradiction": "Battery percentage dropping while estimated range increases proves BMS calculations are broken"
+    }
+  }
+}
