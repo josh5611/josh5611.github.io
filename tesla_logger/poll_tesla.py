@@ -177,7 +177,9 @@ def save_raw(vehicle_data, alerts):
         }, f, indent=2, default=str)
 
 def save_evidence_log(entry, vehicle_data, alerts):
-    """Append one line per poll to a monthly JSONL evidence log. Never overwritten."""
+    """Append FULL raw API response to monthly JSONL evidence log.
+    One JSON line per poll. Append-only. NEVER deleted.
+    This is the primary evidence file for the demand letter."""
     os.makedirs(os.path.join(DATA_DIR, "evidence"), exist_ok=True)
     now = datetime.now(timezone.utc)
     month_file = os.path.join(DATA_DIR, "evidence", f"{now.strftime('%Y-%m')}.jsonl")
@@ -185,19 +187,12 @@ def save_evidence_log(entry, vehicle_data, alerts):
     record = {
         "ts": now.isoformat(),
         "poll_id": entry.get("poll_id"),
-        "status": entry.get("status"),
-        "battery_level": entry.get("battery", {}).get("level"),
-        "usable_level": entry.get("battery", {}).get("usable"),
-        "range_mi": entry.get("battery", {}).get("range_miles"),
-        "charging_state": entry.get("charging", {}).get("state"),
-        "voltage": entry.get("charging", {}).get("charger_voltage"),
-        "current": entry.get("charging", {}).get("charger_actual_current"),
-        "power_kw": entry.get("charging", {}).get("charger_power"),
-        "inside_temp_c": entry.get("climate", {}).get("inside_temp_c"),
-        "outside_temp_c": entry.get("climate", {}).get("outside_temp_c"),
-        "odometer": entry.get("vehicle", {}).get("odometer"),
-        "firmware": entry.get("vehicle", {}).get("firmware"),
-        "alerts": [a.get("name") for a in (alerts.get("recent_alerts") or [])] if alerts else [],
+        "source": "fleet_api_live",
+        "vin": "5YJSA1H25EFP67580",
+        "api_endpoint": "fleet-api.prd.na.vn.cloud.tesla.com",
+        "parsed": entry,
+        "raw_vehicle_data": vehicle_data,
+        "raw_alerts": alerts,
     }
 
     with open(month_file, "a") as f:

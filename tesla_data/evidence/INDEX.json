@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-04-18T20:28:10.688934+00:00",
+  "total_records": 82962,
+  "months": {
+    "2025-03": 11,
+    "2026-03": 42477,
+    "2026-04": 40474
+  },
+  "sources": {
+    "historical_import": 29276,
+    "local_api_file": 4,
+    "alert_snapshot": 24,
+    "fleet_monitor": 278,
+    "dashboard_log": 34395,
+    "tesla_history_json": 15344,
+    "raw_api_snapshot": 8,
+    "tesla_history_json_alert": 1820,
+    "historical_alert": 1820
+  },
+  "date_range": {
+    "first": "2025-03-01",
+    "last": "tesla_status_march2"
+  }
+}
