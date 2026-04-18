@@ -176,6 +176,33 @@ def save_raw(vehicle_data, alerts):
             "alerts": alerts
         }, f, indent=2, default=str)
 
+def save_evidence_log(entry, vehicle_data, alerts):
+    """Append one line per poll to a monthly JSONL evidence log. Never overwritten."""
+    os.makedirs(os.path.join(DATA_DIR, "evidence"), exist_ok=True)
+    now = datetime.now(timezone.utc)
+    month_file = os.path.join(DATA_DIR, "evidence", f"{now.strftime('%Y-%m')}.jsonl")
+
+    record = {
+        "ts": now.isoformat(),
+        "poll_id": entry.get("poll_id"),
+        "status": entry.get("status"),
+        "battery_level": entry.get("battery", {}).get("level"),
+        "usable_level": entry.get("battery", {}).get("usable"),
+        "range_mi": entry.get("battery", {}).get("range_miles"),
+        "charging_state": entry.get("charging", {}).get("state"),
+        "voltage": entry.get("charging", {}).get("charger_voltage"),
+        "current": entry.get("charging", {}).get("charger_actual_current"),
+        "power_kw": entry.get("charging", {}).get("charger_power"),
+        "inside_temp_c": entry.get("climate", {}).get("inside_temp_c"),
+        "outside_temp_c": entry.get("climate", {}).get("outside_temp_c"),
+        "odometer": entry.get("vehicle", {}).get("odometer"),
+        "firmware": entry.get("vehicle", {}).get("firmware"),
+        "alerts": [a.get("name") for a in (alerts.get("recent_alerts") or [])] if alerts else [],
+    }
+
+    with open(month_file, "a") as f:
+        f.write(json.dumps(record, default=str) + "\n")
+
 def main():
     # Get tokens from environment (GitHub Secrets)
     refresh_token = os.environ.get("TESLA_REFRESH_TOKEN")
@@ -201,7 +228,8 @@ def main():
     vehicles = get_vehicles(access_token)
     if not vehicles:
         print("[WARN] No vehicles found or API error")
-        save_data({"status": "no_vehicles", "state": "unknown"}, {})
+        entry = save_data({"status": "no_vehicles", "state": "unknown"}, {})
+        save_evidence_log(entry, {}, {})
         return
 
     vehicle = vehicles[0]
@@ -212,7 +240,7 @@ def main():
     print(f"[INFO] Vehicle: {vin} | State: {state}")
 
     if state == "asleep":
-        save_data({
+        entry = save_data({
             "status": "asleep",
             "state": "asleep",
             "charge_state": {},
@@ -220,6 +248,7 @@ def main():
             "climate_state": {},
             "vehicle_state": {}
         }, {})
+        save_evidence_log(entry, {}, {})
         print("[INFO] Vehicle asleep — logged without waking")
         return
 
@@ -228,17 +257,21 @@ def main():
     vehicle_data = get_vehicle_data(access_token, vehicle_id)
 
     if not vehicle_data:
-        save_data({"status": "error", "state": "api_error"}, {})
+        entry = save_data({"status": "error", "state": "api_error"}, {})
+        save_evidence_log(entry, {}, {})
         return
 
     # Get alerts
     alerts = get_recent_alerts(access_token, vehicle_id)
 
     # Save processed data
-    save_data(vehicle_data, alerts)
+    entry = save_data(vehicle_data, alerts)
 
     # Save raw data for evidence
     save_raw(vehicle_data, alerts)
+
+    # Append to permanent evidence log (one line per poll, never deleted)
+    save_evidence_log(entry, vehicle_data, alerts)
 
     print("[DONE] Tesla data logged successfully")
 

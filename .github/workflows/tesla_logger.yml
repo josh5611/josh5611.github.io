@@ -46,9 +46,15 @@ jobs:
             rm tesla_data/.new_refresh_token
           fi
 
-      - name: Cleanup old raw files (keep 7 days)
+      - name: Archive old raw files monthly
         run: |
-          find tesla_data/raw -name "*.json" -mtime +7 -delete 2>/dev/null || true
+          # Move raw files older than 30 days into monthly archive folders
+          # NEVER delete — this is evidence
+          for f in $(find tesla_data/raw -name "*.json" -mtime +30 2>/dev/null); do
+            MONTH=$(basename "$f" | cut -c1-7)
+            mkdir -p "tesla_data/raw/archive/${MONTH}"
+            mv "$f" "tesla_data/raw/archive/${MONTH}/"
+          done
 
       - name: Commit and push data
         run: |
