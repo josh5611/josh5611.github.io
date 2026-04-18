@@ -79,7 +79,7 @@ def get_recent_alerts(access_token, vehicle_id):
     return {}
 
 def save_data(vehicle_data, alerts):
-    """Save data to daily JSON file."""
+    """Save data to daily JSON file. Always produces a unique entry via timestamp."""
     os.makedirs(DATA_DIR, exist_ok=True)
 
     now = datetime.now(timezone.utc)
@@ -94,6 +94,7 @@ def save_data(vehicle_data, alerts):
 
     entry = {
         "timestamp": timestamp,
+        "poll_id": now.strftime("%Y%m%d_%H%M%S"),
         "status": vehicle_data.get("status", vehicle_data.get("state", "unknown")),
         "battery": {
             "level": charge.get("battery_level"),
@@ -145,6 +146,7 @@ def save_data(vehicle_data, alerts):
         daily_data = {"date": date_str, "entries": []}
 
     daily_data["entries"].append(entry)
+    daily_data["last_updated"] = timestamp
 
     with open(daily_file, "w") as f:
         json.dump(daily_data, f, indent=2, default=str)
@@ -199,7 +201,6 @@ def main():
     vehicles = get_vehicles(access_token)
     if not vehicles:
         print("[WARN] No vehicles found or API error")
-        # Still save a record that we tried
         save_data({"status": "no_vehicles", "state": "unknown"}, {})
         return
 
@@ -211,16 +212,14 @@ def main():
     print(f"[INFO] Vehicle: {vin} | State: {state}")
 
     if state == "asleep":
-        # Don't wake the car — just log that it's asleep
-        entry = {
+        save_data({
             "status": "asleep",
             "state": "asleep",
             "charge_state": {},
             "drive_state": {},
             "climate_state": {},
             "vehicle_state": {}
-        }
-        save_data(entry, {})
+        }, {})
         print("[INFO] Vehicle asleep — logged without waking")
         return
 

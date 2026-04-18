@@ -1,109 +1,286 @@
 {
-  "total_gaps": 13,
+  "generated_at": "2026-04-18T20:23:23.799023+00:00",
+  "total_gaps_over_30min": 31,
+  "total_gap_hours": 291.4,
   "gaps": [
     {
-      "start": "2026-03-10T11:28:25",
-      "end": "2026-03-11T11:44:21",
-      "gap_minutes": 1455.9,
-      "battery_start": null,
-      "battery_end": null,
-      "estimated_count": 0
+      "start": "2026-03-26T21:29:35.279000+00:00",
+      "end": "2026-03-27T00:34:50.136000+00:00",
+      "gap_seconds": 11114.857,
+      "gap_hours": 3.1,
+      "battery_before": 100,
+      "battery_after": 100,
+      "estimated_entries_filled": 36
     },
     {
-      "start": "2026-03-11T12:07:03",
-      "end": "2026-03-11T13:27:18",
-      "gap_minutes": 80.2,
-      "battery_start": null,
-      "battery_end": 100,
-      "estimated_count": 0
+      "start": "2026-03-28T20:44:23.247094+00:00",
+      "end": "2026-03-28T22:47:51.967799+00:00",
+      "gap_seconds": 7408.720705,
+      "gap_hours": 2.1,
+      "battery_before": 100,
+      "battery_after": 97,
+      "estimated_entries_filled": 23
     },
     {
-      "start": "2026-03-11T13:27:23",
-      "end": "2026-03-11T14:31:43",
-      "gap_minutes": 64.3,
-      "battery_start": null,
-      "battery_end": 94,
-      "estimated_count": 0
+      "start": "2026-03-29T00:21:07.723532+00:00",
+      "end": "2026-03-31T15:08:42.964625+00:00",
+      "gap_seconds": 226055.241093,
+      "gap_hours": 62.8,
+      "battery_before": 83,
+      "battery_after": 68,
+      "estimated_entries_filled": 99
     },
     {
-      "start": "2026-03-11T14:31:43",
-      "end": "2026-03-12T14:22:58.365085",
-      "gap_minutes": 1431.3,
-      "battery_start": 94,
-      "battery_end": 93,
-      "estimated_count": 200
+      "start": "2026-03-31T16:46:41.547574+00:00",
+      "end": "2026-03-31T17:34:08.962033+00:00",
+      "gap_seconds": 2847.414459,
+      "gap_hours": 0.8,
+      "battery_before": 79,
+      "battery_after": 71,
+      "estimated_entries_filled": 8
     },
     {
-      "start": "2026-03-12T14:22:58.365085",
-      "end": "2026-03-20T10:42:18.902404",
-      "gap_minutes": 11299.3,
-      "battery_start": 93,
-      "battery_end": null,
-      "estimated_count": 0
+      "start": "2026-03-31T20:06:27.449957+00:00",
+      "end": "2026-03-31T23:57:37.522018+00:00",
+      "gap_seconds": 13870.072061,
+      "gap_hours": 3.9,
+      "battery_before": 84,
+      "battery_after": 89,
+      "estimated_entries_filled": 45
     },
     {
-      "start": "2026-03-20T10:42:18.902404",
-      "end": "2026-03-21T16:02:39.794902",
-      "gap_minutes": 1760.3,
-      "battery_start": null,
-      "battery_end": null,
-      "estimated_count": 0
+      "start": "2026-04-01T00:01:48.236436+00:00",
+      "end": "2026-04-01T02:24:56.264622+00:00",
+      "gap_seconds": 8588.028186,
+      "gap_hours": 2.4,
+      "battery_before": 89,
+      "battery_after": 70,
+      "estimated_entries_filled": 27
     },
     {
-      "start": "2026-03-21T16:03:24.604183",
-      "end": "2026-03-24T11:08:39.748027",
-      "gap_minutes": 4025.3,
-      "battery_start": null,
-      "battery_end": null,
-      "estimated_count": 0
+      "start": "2026-04-01T02:35:22.834546+00:00",
+      "end": "2026-04-01T08:40:45.686160+00:00",
+      "gap_seconds": 21922.851614,
+      "gap_hours": 6.1,
+      "battery_before": 70,
+      "battery_after": 100,
+      "estimated_entries_filled": 72
     },
     {
-      "start": "2026-03-24T11:08:39.748027",
-      "end": "2026-03-24T21:18:04",
-      "gap_minutes": 609.4,
-      "battery_start": null,
-      "battery_end": 33,
-      "estimated_count": 0
+      "start": "2026-04-01T08:42:07.247607+00:00",
+      "end": "2026-04-01T18:38:02.901608+00:00",
+      "gap_seconds": 35755.654001,
+      "gap_hours": 9.9,
+      "battery_before": 100,
+      "battery_after": 61,
+      "estimated_entries_filled": 99
     },
     {
-      "start": "2026-03-25T12:23:51",
-      "end": "2026-03-25T22:44:30",
-      "gap_minutes": 620.6,
-      "battery_start": 71,
-      "battery_end": 74,
-      "estimated_count": 124
+      "start": "2026-04-03T07:39:04.127650+00:00",
+      "end": "2026-04-03T08:45:50.118526+00:00",
+      "gap_seconds": 4005.990876,
+      "gap_hours": 1.1,
+      "battery_before": 33,
+      "battery_after": 33,
+      "estimated_entries_filled": 12
     },
     {
-      "start": "2026-03-26T10:55:02",
-      "end": "2026-03-26T11:29:58",
-      "gap_minutes": 34.9,
-      "battery_start": 92,
-      "battery_end": 92,
-      "estimated_count": 6
+      "start": "2026-04-03T08:48:01.711613+00:00",
+      "end": "2026-04-03T18:19:20.360482+00:00",
+      "gap_seconds": 34278.648869,
+      "gap_hours": 9.5,
+      "battery_before": 33,
+      "battery_after": 33,
+      "estimated_entries_filled": 99
     },
     {
-      "start": "2026-03-26T14:29:32",
-      "end": "2026-03-26T17:35:50",
-      "gap_minutes": 186.3,
-      "battery_start": 100,
-      "battery_end": 100,
-      "estimated_count": 37
+      "start": "2026-04-03T18:19:42.124921+00:00",
+      "end": "2026-04-04T03:43:25.501100+00:00",
+      "gap_seconds": 33823.376179,
+      "gap_hours": 9.4,
+      "battery_before": 84,
+      "battery_after": 93,
+      "estimated_entries_filled": 99
     },
     {
-      "start": "2026-03-28T20:44:23.247094",
-      "end": "2026-03-28T22:47:51.967799",
-      "gap_minutes": 123.5,
-      "battery_start": 100,
-      "battery_end": 97,
-      "estimated_count": 24
+      "start": "2026-04-04T03:44:28.031435+00:00",
+      "end": "2026-04-04T08:36:10.089070+00:00",
+      "gap_seconds": 17502.057635,
+      "gap_hours": 4.9,
+      "battery_before": 93,
+      "battery_after": 93,
+      "estimated_entries_filled": 57
     },
     {
-      "start": "2026-03-29T00:21:07.723532",
-      "end": "2026-03-31T15:08:42.964625",
-      "gap_minutes": 3767.6,
-      "battery_start": 83,
-      "battery_end": 68,
-      "estimated_count": 200
+      "start": "2026-04-04T08:37:44.920115+00:00",
+      "end": "2026-04-04T16:06:49.338365+00:00",
+      "gap_seconds": 26944.41825,
+      "gap_hours": 7.5,
+      "battery_before": 93,
+      "battery_after": 93,
+      "estimated_entries_filled": 88
+    },
+    {
+      "start": "2026-04-04T16:06:49.338365+00:00",
+      "end": "2026-04-05T02:58:32.542878+00:00",
+      "gap_seconds": 39103.204513,
+      "gap_hours": 10.9,
+      "battery_before": 93,
+      "battery_after": 100,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-05T03:31:17.011910+00:00",
+      "end": "2026-04-05T09:02:19.870853+00:00",
+      "gap_seconds": 19862.858943,
+      "gap_hours": 5.5,
+      "battery_before": 100,
+      "battery_after": 100,
+      "estimated_entries_filled": 65
+    },
+    {
+      "start": "2026-04-05T09:30:11.479024+00:00",
+      "end": "2026-04-05T19:09:40.456569+00:00",
+      "gap_seconds": 34768.977545,
+      "gap_hours": 9.7,
+      "battery_before": 100,
+      "battery_after": 100,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-05T19:10:40.310310+00:00",
+      "end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "gap_hours": 8.4,
+      "battery_before": 99,
+      "battery_after": 99,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-06T03:38:08.270601+00:00",
+      "end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "gap_hours": 6.6,
+      "battery_before": 99,
+      "battery_after": 99,
+      "estimated_entries_filled": 78
+    },
+    {
+      "start": "2026-04-06T10:18:35.968056+00:00",
+      "end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "gap_hours": 20.1,
+      "battery_before": 88,
+      "battery_after": 100,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-07T06:29:45.134063+00:00",
+      "end": "2026-04-07T10:24:35.127592+00:00",
+      "gap_seconds": 14089.993529,
+      "gap_hours": 3.9,
+      "battery_before": 100,
+      "battery_after": 100,
+      "estimated_entries_filled": 45
+    },
+    {
+      "start": "2026-04-07T10:26:11.233492+00:00",
+      "end": "2026-04-08T02:56:44.512475+00:00",
+      "gap_seconds": 59433.278983,
+      "gap_hours": 16.5,
+      "battery_before": 100,
+      "battery_after": 100,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-08T02:57:38.745077+00:00",
+      "end": "2026-04-08T08:33:52.742890+00:00",
+      "gap_seconds": 20173.997813,
+      "gap_hours": 5.6,
+      "battery_before": 100,
+      "battery_after": 100,
+      "estimated_entries_filled": 66
+    },
+    {
+      "start": "2026-04-08T08:39:24.765390+00:00",
+      "end": "2026-04-08T20:37:11.728985+00:00",
+      "gap_seconds": 43066.963595,
+      "gap_hours": 12.0,
+      "battery_before": 100,
+      "battery_after": 77,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-08T20:37:22.826609+00:00",
+      "end": "2026-04-09T03:09:41.582336+00:00",
+      "gap_seconds": 23538.755727,
+      "gap_hours": 6.5,
+      "battery_before": 77,
+      "battery_after": 75,
+      "estimated_entries_filled": 77
+    },
+    {
+      "start": "2026-04-09T03:10:25.521742+00:00",
+      "end": "2026-04-09T08:51:22.371050+00:00",
+      "gap_seconds": 20456.849308,
+      "gap_hours": 5.7,
+      "battery_before": 75,
+      "battery_after": 75,
+      "estimated_entries_filled": 67
+    },
+    {
+      "start": "2026-04-09T08:54:22.921677+00:00",
+      "end": "2026-04-10T03:16:30.577479+00:00",
+      "gap_seconds": 66127.655802,
+      "gap_hours": 18.4,
+      "battery_before": 75,
+      "battery_after": 77,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-10T03:17:25.292817+00:00",
+      "end": "2026-04-10T10:31:25.158734+00:00",
+      "gap_seconds": 26039.865917,
+      "gap_hours": 7.2,
+      "battery_before": 75,
+      "battery_after": 77,
+      "estimated_entries_filled": 85
+    },
+    {
+      "start": "2026-04-10T10:32:24.400747+00:00",
+      "end": "2026-04-10T19:12:51.362157+00:00",
+      "gap_seconds": 31226.96141,
+      "gap_hours": 8.7,
+      "battery_before": 77,
+      "battery_after": 77,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-10T19:12:51.362157+00:00",
+      "end": "2026-04-11T02:47:58.653525+00:00",
+      "gap_seconds": 27307.291368,
+      "gap_hours": 7.6,
+      "battery_before": 77,
+      "battery_after": 81,
+      "estimated_entries_filled": 90
+    },
+    {
+      "start": "2026-04-11T02:48:44.050929+00:00",
+      "end": "2026-04-11T14:38:01.277410+00:00",
+      "gap_seconds": 42557.226481,
+      "gap_hours": 11.8,
+      "battery_before": 81,
+      "battery_after": 83,
+      "estimated_entries_filled": 99
+    },
+    {
+      "start": "2026-04-11T14:45:36.548392+00:00",
+      "end": "2026-04-11T17:34:34.440524+00:00",
+      "gap_seconds": 10137.892132,
+      "gap_hours": 2.8,
+      "battery_before": 83,
+      "battery_after": 83,
+      "estimated_entries_filled": 32
     }
   ]
 }

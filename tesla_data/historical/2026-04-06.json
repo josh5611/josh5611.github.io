@@ -1,0 +1,3302 @@
+{
+  "date": "2026-04-06",
+  "summary": {
+    "actual_readings": 19,
+    "estimated_readings": 188,
+    "total_readings": 207,
+    "alerts_count": 77,
+    "source": "historical_import",
+    "imported_at": "2026-04-18T20:23:23.761950+00:00",
+    "battery_min": 88,
+    "battery_max": 99,
+    "battery_start": 99,
+    "battery_end": 96
+  },
+  "entries": [
+    {
+      "timestamp": "2026-04-06T00:04:28.739012+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:09:32.677438+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:14:36.615863+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:19:40.554289+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:24:44.492715+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:29:48.431141+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:34:52.369567+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:39:56.307993+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:45:00.246419+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:50:04.184845+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T00:55:08.123271+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:00:12.061696+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:05:16.000122+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:10:19.938548+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:15:23.876974+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:20:27.815400+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:25:31.753826+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:30:35.692252+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:35:39.630678+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:40:43.569104+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:45:47.507529+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:50:51.445955+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T01:55:55.384381+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:00:59.322807+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:06:03.261233+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:11:07.199659+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:16:11.138085+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:21:15.076511+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:26:19.014937+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:31:22.953362+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:36:26.891788+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:41:30.830214+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:46:34.768640+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:51:38.707066+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T02:56:42.645492+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:01:46.583918+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:06:50.522344+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:11:54.460770+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:16:58.399195+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:22:02.337621+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:27:06.276047+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:32:10.214473+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-05T19:10:40.310310+00:00",
+      "gap_end": "2026-04-06T03:37:14.152899+00:00",
+      "gap_seconds": 30393.842589,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:37:14.152899+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 99,
+        "usable": 98,
+        "range_miles": 139.38
+      },
+      "charging": {
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:37:24.947078+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 99,
+        "usable": 98,
+        "range_miles": 139.38
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:37:34.605156+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 99,
+        "usable": 98,
+        "range_miles": 139.38
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:37:45.447349+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 99,
+        "usable": 98,
+        "range_miles": 139.38
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:37:54.541365+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 99,
+        "usable": 98,
+        "range_miles": 139.38
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:38:08.270601+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 99,
+        "usable": 98,
+        "range_miles": 139.38
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 0.0
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:43:10.521118+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:48:12.771635+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:53:15.022151+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T03:58:17.272668+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:03:19.523185+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:08:21.773702+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:13:24.024219+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:18:26.274735+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:23:28.525252+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:28:30.775769+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:33:33.026286+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:38:35.276803+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:43:37.527319+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:48:39.777836+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:53:42.028353+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T04:58:44.278870+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:03:46.529387+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:08:48.779903+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:13:51.030420+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:18:53.280937+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:23:55.531454+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:28:57.781971+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:34:00.032487+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:39:02.283004+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:44:04.533521+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:49:06.784038+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:54:09.034555+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T05:59:11.285071+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:04:13.535588+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:09:15.786105+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:14:18.036622+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:19:20.287139+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:24:22.537655+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:29:24.788172+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:34:27.038689+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:39:29.289206+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:44:31.539723+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:49:33.790239+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:54:36.040756+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T06:59:38.291273+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:04:40.541790+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:09:42.792306+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:14:45.042823+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:19:47.293340+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:24:49.543857+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:29:51.794374+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:34:54.044890+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:39:56.295407+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:44:58.545924+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:50:00.796441+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T07:55:03.046958+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:00:05.297474+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:05:07.547991+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:10:09.798508+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:15:12.049025+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:20:14.299542+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:25:16.550058+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:30:18.800575+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:35:21.051092+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:40:23.301609+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:45:25.552126+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:50:27.802642+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T08:55:30.053159+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:00:32.303676+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:05:34.554193+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:10:36.804710+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:15:39.055226+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:20:41.305743+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:25:43.556260+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:30:45.806777+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:35:48.057294+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:40:50.307810+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:45:52.558327+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:50:54.808844+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T09:55:57.059361+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:00:59.309878+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:06:01.560394+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:11:03.810911+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T03:38:08.270601+00:00",
+      "gap_end": "2026-04-06T10:16:06.061428+00:00",
+      "gap_seconds": 23877.790827,
+      "battery": {
+        "level": 99
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:16:06.061428+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 99,
+        "usable": 98,
+        "range_miles": 139.38
+      },
+      "charging": {
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:16:30.904193+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:16:41.880712+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:16:50.505916+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:17:02.326963+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:17:18.142292+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 1,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:17:30.171460+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 1,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:17:41.193293+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:17:51.117191+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:18:03.610716+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:18:12.307046+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 1,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:18:23.460362+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 1,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:18:35.968056+00:00",
+      "source": "history_json",
+      "battery": {
+        "level": 88,
+        "usable": 87,
+        "range_miles": 150.94
+      },
+      "charging": {
+        "charger_voltage": 0,
+        "charger_actual_current": 0,
+        "charge_energy_added": 1.41
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:30:38.476426+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 88
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:42:40.984796+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 88
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T10:54:43.493165+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 88
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T11:06:46.001535+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 88
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T11:18:48.509905+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 89
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T11:30:51.018275+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 89
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T11:42:53.526645+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 89
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T11:54:56.035015+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 89
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T12:06:58.543384+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 89
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T12:19:01.051754+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 89
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T12:31:03.560124+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 89
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T12:43:06.068494+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 89
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T12:55:08.576864+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 90
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T13:07:11.085233+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 90
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T13:19:13.593603+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 90
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T13:31:16.101973+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 90
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T13:43:18.610343+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 90
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T13:55:21.118713+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 90
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T14:07:23.627083+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 90
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T14:19:26.135452+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 90
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T14:31:28.643822+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T14:43:31.152192+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T14:55:33.660562+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T15:07:36.168932+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T15:19:38.677301+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T15:31:41.185671+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T15:43:43.694041+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T15:55:46.202411+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T16:07:48.710781+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 91
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T16:19:51.219151+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 92
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T16:31:53.727520+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 92
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T16:43:56.235890+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 92
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T16:55:58.744260+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 92
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T17:08:01.252630+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 92
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T17:20:03.761000+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 92
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T17:32:06.269370+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 92
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T17:44:08.777739+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 92
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T17:56:11.286109+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 93
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T18:08:13.794479+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 93
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T18:20:16.302849+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 93
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T18:32:18.811219+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 93
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T18:44:21.319588+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 93
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T18:56:23.827958+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 93
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T19:08:26.336328+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 93
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T19:20:28.844698+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 93
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T19:32:31.353068+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T19:44:33.861438+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T19:56:36.369807+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T20:08:38.878177+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T20:20:41.386547+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T20:32:43.894917+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T20:44:46.403287+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T20:56:48.911656+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T21:08:51.420026+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 94
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T21:20:53.928396+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 95
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T21:32:56.436766+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 95
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T21:44:58.945136+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 95
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T21:57:01.453506+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 95
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T22:09:03.961875+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 95
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T22:21:06.470245+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 95
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T22:33:08.978615+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 95
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T22:45:11.486985+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 95
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T22:57:13.995355+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 96
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T23:09:16.503724+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 96
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T23:21:19.012094+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 96
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T23:33:21.520464+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 96
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T23:45:24.028834+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 96
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    },
+    {
+      "timestamp": "2026-04-06T23:57:26.537204+00:00",
+      "source": "estimated",
+      "estimated": true,
+      "gap_start": "2026-04-06T10:18:35.968056+00:00",
+      "gap_end": "2026-04-07T06:22:46.805038+00:00",
+      "gap_seconds": 72250.836982,
+      "battery": {
+        "level": 96
+      },
+      "charging": {
+        "state": "estimated"
+      }
+    }
+  ],
+  "alerts": [
+    {
+      "timestamp": "2026-04-06T03:37:14.152899+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:14.152899+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:14.152899+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:14.152899+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:14.152899+00:00",
+      "name": "BMS_f071_SW_SM_TransCon_Not_Met",
+      "body": "Unable to start vehicle/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:24.947078+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:24.947078+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:24.947078+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:24.947078+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:34.605156+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:34.605156+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:34.605156+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:34.605156+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:45.447349+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:45.447349+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:45.447349+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:45.447349+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:54.541365+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:54.541365+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:54.541365+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:37:54.541365+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T03:38:08.270601+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:38:08.270601+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T03:38:08.270601+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T03:38:08.270601+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:06.061428+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:06.061428+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:06.061428+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:06.061428+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:30.904193+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:30.904193+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:30.904193+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:30.904193+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:41.880712+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:41.880712+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:41.880712+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:41.880712+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:50.505916+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:50.505916+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:50.505916+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:16:50.505916+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:02.326963+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:02.326963+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:02.326963+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:02.326963+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:18.142292+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:18.142292+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:18.142292+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:18.142292+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:30.171460+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:30.171460+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:30.171460+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:30.171460+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:41.193293+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:41.193293+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:41.193293+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:41.193293+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:51.117191+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:51.117191+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:51.117191+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:17:51.117191+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:03.610716+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:03.610716+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:03.610716+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:03.610716+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:12.307046+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:12.307046+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:12.307046+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:12.307046+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:23.460362+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:23.460362+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:23.460362+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:23.460362+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:35.968056+00:00",
+      "name": "BMS_u018_SOC_Imbalance_Limiting",
+      "body": "Maximum battery charge level reduced/OK to drive - Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:35.968056+00:00",
+      "name": "BMS_w061_SW_BMS_Power_Supply",
+      "body": "Vehicle may not restart/Service is required"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:35.968056+00:00",
+      "name": "BMS_f061_SW_BMS_Power_Supply",
+      "body": "Service is required/Schedule service"
+    },
+    {
+      "timestamp": "2026-04-06T10:18:35.968056+00:00",
+      "name": "CP_w041_doorSensorUnplugged",
+      "body": "Charge port door sensor fault/Charge port may not operate as expected"
+    }
+  ]
+}
