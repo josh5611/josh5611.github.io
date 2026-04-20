@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-20T02:42:13.605366+00:00",
-  "poll_id": "20260420_024213",
+  "timestamp": "2026-04-20T04:33:32.036248+00:00",
+  "poll_id": "20260420_043332",
   "status": "online",
   "battery": {
     "level": null,
@@ -42,7 +42,7 @@
     "recent_alerts": [
       {
         "name": "CP_w041_doorSensorUnplugged",
-        "time": "2026-04-19T19:29:37.575+00:00",
+        "time": "2026-04-19T20:22:53.582+00:00",
         "audience": [
           "customer",
           "service-fix"
@@ -50,44 +50,8 @@
         "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
       },
       {
-        "name": "GTW_w042_cpMia",
-        "time": "2026-04-19T19:29:10.586+00:00",
-        "audience": [
-          "customer",
-          "service"
-        ],
-        "user_text": "Charge port disabled/Charging unavailable"
-      },
-      {
-        "name": "DI_u023_holdReleaseRqrd",
-        "time": "2026-04-19T19:26:14.584+00:00",
-        "audience": [
-          "customer",
-          "service"
-        ],
-        "user_text": "To release Vehicle Hold/Press brake pedal or accelerator pedal"
-      },
-      {
-        "name": "GTW_w290_parkAssistTempFailure",
-        "time": "2026-04-19T19:25:57.576+00:00",
-        "audience": [
-          "customer",
-          "service"
-        ],
-        "user_text": "Park Assist unavailable/"
-      },
-      {
-        "name": "MCU_w012_TPMS_systemFault",
-        "time": "2026-04-19T19:12:42.211+00:00",
-        "audience": [
-          "customer",
-          "service-fix"
-        ],
-        "user_text": "Tire pressure monitoring system fault/Pressure sensor fault may clear next drive"
-      },
-      {
         "name": "BMS_u018_SOC_Imbalance_Limiting",
-        "time": "2026-04-19T18:42:31.602+00:00",
+        "time": "2026-04-19T20:22:51.614+00:00",
         "audience": [
           "customer",
           "service"
