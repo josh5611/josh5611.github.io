@@ -219,7 +219,8 @@ def main():
             f.write(new_refresh_token)
         print("[INFO] Refresh token rotated - needs secret update")
 
-    # Get all vehicles
+    # Get vehicles — only log the P85D
+    TARGET_VIN = "5YJSA1H25EFP67580"
     vehicles = get_vehicles(access_token)
     if not vehicles:
         print("[WARN] No vehicles found or API error")
@@ -227,7 +228,12 @@ def main():
         save_evidence_log(entry, {}, {})
         return
 
-    # Log all vehicles (P85D is primary evidence vehicle)
+    # Filter to P85D only
+    vehicles = [v for v in vehicles if v.get("vin") == TARGET_VIN]
+    if not vehicles:
+        print(f"[WARN] Target VIN {TARGET_VIN} not found")
+        return
+
     for vehicle in vehicles:
         vehicle_id = vehicle.get("id")
         vin = vehicle.get("vin", "unknown")
