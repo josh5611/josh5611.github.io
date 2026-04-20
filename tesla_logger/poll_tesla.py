@@ -219,7 +219,7 @@ def main():
             f.write(new_refresh_token)
         print("[INFO] Refresh token rotated - needs secret update")
 
-    # Get vehicles
+    # Get all vehicles
     vehicles = get_vehicles(access_token)
     if not vehicles:
         print("[WARN] No vehicles found or API error")
@@ -227,48 +227,50 @@ def main():
         save_evidence_log(entry, {}, {})
         return
 
-    vehicle = vehicles[0]
-    vehicle_id = vehicle.get("id")
-    vin = vehicle.get("vin", "unknown")
-    state = vehicle.get("state", "unknown")
+    # Log all vehicles (P85D is primary evidence vehicle)
+    for vehicle in vehicles:
+        vehicle_id = vehicle.get("id")
+        vin = vehicle.get("vin", "unknown")
+        state = vehicle.get("state", "unknown")
 
-    print(f"[INFO] Vehicle: {vin} | State: {state}")
+        print(f"[INFO] Vehicle: {vin} | State: {state}")
 
-    if state == "asleep":
-        entry = save_data({
-            "status": "asleep",
-            "state": "asleep",
-            "charge_state": {},
-            "drive_state": {},
-            "climate_state": {},
-            "vehicle_state": {}
-        }, {})
-        save_evidence_log(entry, {}, {})
-        print("[INFO] Vehicle asleep — logged without waking")
-        return
+        if state in ("asleep", "shutdown"):
+            entry = save_data({
+                "status": state,
+                "state": state,
+                "vin": vin,
+                "charge_state": {},
+                "drive_state": {},
+                "climate_state": {},
+                "vehicle_state": {}
+            }, {})
+            save_evidence_log(entry, {}, {})
+            print(f"[INFO] {vin} {state} — logged without waking")
+            continue
 
-    # Get full data
-    print("[INFO] Polling vehicle data...")
-    vehicle_data = get_vehicle_data(access_token, vehicle_id)
+        # Get full data
+        print(f"[INFO] Polling {vin}...")
+        vehicle_data = get_vehicle_data(access_token, vehicle_id)
 
-    if not vehicle_data:
-        entry = save_data({"status": "error", "state": "api_error"}, {})
-        save_evidence_log(entry, {}, {})
-        return
+        if not vehicle_data:
+            entry = save_data({"status": "error", "state": "api_error", "vin": vin}, {})
+            save_evidence_log(entry, {}, {})
+            continue
 
-    # Get alerts
-    alerts = get_recent_alerts(access_token, vehicle_id)
+        # Get alerts
+        alerts = get_recent_alerts(access_token, vehicle_id)
 
-    # Save processed data
-    entry = save_data(vehicle_data, alerts)
+        # Save processed data
+        entry = save_data(vehicle_data, alerts)
 
-    # Save raw data for evidence
-    save_raw(vehicle_data, alerts)
+        # Save raw data for evidence
+        save_raw(vehicle_data, alerts)
 
-    # Append to permanent evidence log (one line per poll, never deleted)
-    save_evidence_log(entry, vehicle_data, alerts)
+        # Append to permanent evidence log (one line per poll, never deleted)
+        save_evidence_log(entry, vehicle_data, alerts)
 
-    print("[DONE] Tesla data logged successfully")
+        print(f"[DONE] {vin} logged successfully")
 
 if __name__ == "__main__":
     main()
