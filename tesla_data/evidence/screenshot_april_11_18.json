@@ -7,7 +7,14 @@
   "source_dir": "C:/Users/joshb/iCloudPhotos/Photos/",
   "entries": [
     {"date": "2026-04-11", "time": "13:15", "file": "IMG_1755.PNG", "battery_pct": 72, "miles": null, "status": "Charging Complete", "notes": "6 mi added, charge limit 90%"},
+    {"date": "2026-04-11", "time": "14:13", "file": "IMG_1757.PNG", "battery_pct": null, "miles": 129, "status": "Charging Complete", "notes": "Charge limit 90%, Interior 83°F"},
+    {"date": "2026-04-11", "time": "14:13", "file": "IMG_1758(1).PNG", "battery_pct": 91, "miles": null, "status": "Charging Complete", "notes": "Charge limit 90%, Interior 82°F. 91% but only 129 mi = 64% of expected range"},
     {"date": "2026-04-12", "time": "15:26", "file": "IMG_1762(2).PNG", "battery_pct": null, "miles": 137, "status": "Parked", "notes": "Charge limit 90%, Interior 73°F"},
+    {"date": "2026-04-12", "time": "15:26", "file": "IMG_1763(1).PNG", "battery_pct": 81, "miles": null, "status": "Parked", "notes": "Charge limit 90%, Interior 73°F"},
+    {"date": "2026-04-15", "time": "14:19", "file": "IMG_1780.PNG", "battery_pct": 71, "miles": null, "status": "Charging", "notes": "9 mi/hr, +1 mi, 10/40A, 244V, limit 90%, 12h remaining"},
+    {"date": "2026-04-15", "time": "14:19", "file": "IMG_1781(1).PNG", "battery_pct": null, "miles": 141, "status": "Charging", "notes": "9 mi/hr, +1 mi, 10/40A, 244V, limit 90%, 12h remaining"},
+    {"date": "2026-04-15", "time": "14:32", "file": "IMG_1782.PNG", "battery_pct": null, "miles": 143, "status": "Charging", "notes": "9 mi/hr, +3 mi, 10/40A, 243V, 12h 5m remaining"},
+    {"date": "2026-04-15", "time": "14:33", "file": "IMG_1783.PNG", "battery_pct": 73, "miles": null, "status": "Charging", "notes": "9 mi/hr, +3 mi, 10/40A, 243V, 12h 5m remaining"},
     {"date": "2026-04-15", "time": "14:38", "file": "IMG_1784.PNG", "battery_pct": 73, "miles": null, "status": "Charging", "notes": "9 mi/hr, +4 mi, 10/40A, 245V, limit 90%"},
     {"date": "2026-04-15", "time": "14:42", "file": "IMG_1786.PNG", "battery_pct": null, "miles": 145, "status": "Charging", "notes": "9 mi/hr, +5 mi, 10/40A, 246V, limit 90%"},
     {"date": "2026-04-15", "time": "16:08", "file": "IMG_1792(2).PNG", "battery_pct": null, "miles": 158, "status": "Charging", "notes": "9 mi/hr, +18 mi, 10/40A, 243V, limit 90%"},
@@ -40,7 +47,8 @@
     {"date": "2026-04-18", "time": "09:47", "file": "IMG_1870(1).PNG", "battery_pct": null, "miles": 181, "status": "Parked", "notes": "181 mi stable."},
     {"date": "2026-04-18", "time": "09:47", "file": "IMG_1871(2).PNG", "battery_pct": 79, "miles": null, "status": "Parked", "notes": "79% at 181 mi. Consistent now but yesterday was broken."},
     {"date": "2026-04-18", "time": "12:59", "file": "IMG_1874.PNG", "battery_pct": 79, "miles": null, "status": "Parked", "notes": "79%. Software Update available - connect to WiFi."},
-    {"date": "2026-04-18", "time": "12:59", "file": "IMG_1875(1).PNG", "battery_pct": null, "miles": 181, "status": "Parked", "notes": "181 mi. Software Update available."}
+    {"date": "2026-04-18", "time": "12:59", "file": "IMG_1875(1).PNG", "battery_pct": null, "miles": 181, "status": "Parked", "notes": "181 mi. Software Update available."},
+    {"date": "2026-04-19", "time": "19:46", "file": "FLEET_API_LIVE_PULL", "battery_pct": 91, "miles": 102, "status": "Charging Complete", "notes": "LIVE API PULL: 91% showing only 102 mi (expected ~185 mi = 55% suppression). BMS_u018_SOC_Imbalance_Limiting alert active. Odometer: 97731.3 mi. Firmware: 2025.38.12. Alerts: BMS_u018, CP_w041, GTW_w042, DI_u023, GTW_w290, MCU_w012."}
   ],
   "analysis": {
     "smoking_gun_event": {

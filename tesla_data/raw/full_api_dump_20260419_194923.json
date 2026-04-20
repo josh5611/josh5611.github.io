@@ -1,0 +1,329 @@
+{
+  "vehicle_data": {
+    "status": 200,
+    "data": {
+      "response": {
+        "id": 1492932565043024,
+        "user_id": 2252222652417802,
+        "vehicle_id": 396794961,
+        "vin": "5YJSA1H25EFP67580",
+        "color": null,
+        "access_type": "OWNER",
+        "granular_access": {
+          "hide_private": false
+        },
+        "tokens": null,
+        "state": "online",
+        "in_service": false,
+        "id_s": "1492932565043024",
+        "calendar_enabled": true,
+        "api_version": 36,
+        "backseat_token": null,
+        "backseat_token_updated_at": null,
+        "ble_autopair_enrolled": false,
+        "supercharger_payment_needed": "false",
+        "supercharging_enabled": "true",
+        "charge_state": {
+          "battery_heater_on": false,
+          "battery_level": 91,
+          "battery_range": 102.0,
+          "charge_amps": 5,
+          "charge_current_request": 5,
+          "charge_current_request_max": 16,
+          "charge_enable_request": true,
+          "charge_energy_added": 0.0,
+          "charge_limit_soc": 98,
+          "charge_limit_soc_max": 100,
+          "charge_limit_soc_min": 50,
+          "charge_limit_soc_std": 90,
+          "charge_miles_added_ideal": 0.0,
+          "charge_miles_added_rated": 0.0,
+          "charge_port_cold_weather_mode": null,
+          "charge_port_color": "<invalid>",
+          "charge_port_door_open": null,
+          "charge_port_latch": "<invalid>",
+          "charge_rate": 0.0,
+          "charge_to_max_range": true,
+          "charger_actual_current": null,
+          "charger_phases": null,
+          "charger_pilot_current": null,
+          "charger_power": null,
+          "charger_voltage": null,
+          "charging_state": "Complete",
+          "conn_charge_cable": "<invalid>",
+          "est_battery_range": 58.39,
+          "fast_charger_brand": "<invalid>",
+          "fast_charger_present": null,
+          "fast_charger_type": "<invalid>",
+          "ideal_battery_range": 131.75,
+          "managed_charging_active": false,
+          "managed_charging_start_time": null,
+          "managed_charging_user_canceled": false,
+          "max_range_charge_counter": 0,
+          "minutes_to_full_charge": 0,
+          "not_enough_power_to_heat": null,
+          "off_peak_charging_enabled": false,
+          "off_peak_charging_times": "all_week",
+          "off_peak_hours_end_time": 360,
+          "preconditioning_enabled": false,
+          "preconditioning_times": "all_week",
+          "scheduled_charging_mode": "Off",
+          "scheduled_charging_pending": false,
+          "scheduled_charging_start_time": null,
+          "scheduled_charging_start_time_app": 600,
+          "scheduled_departure_time": 1775250900,
+          "scheduled_departure_time_minutes": 855,
+          "supercharger_session_trip_planner": false,
+          "time_to_full_charge": 0.0,
+          "timestamp": 1776653355200,
+          "trip_charging": null,
+          "usable_battery_level": 90,
+          "user_charge_enable_request": null
+        },
+        "climate_state": {
+          "allow_cabin_overheat_protection": true,
+          "battery_heater": false,
+          "battery_heater_no_power": null,
+          "cabin_overheat_protection": "On",
+          "climate_keeper_mode": "off",
+          "defrost_mode": 0,
+          "driver_temp_setting": 25.0,
+          "fan_status": 0,
+          "hvac_auto_request": "On",
+          "inside_temp": 27.3,
+          "is_auto_conditioning_on": null,
+          "is_climate_on": false,
+          "is_front_defroster_on": false,
+          "is_preconditioning": false,
+          "is_rear_defroster_on": false,
+          "left_temp_direction": null,
+          "max_avail_temp": 28.0,
+          "min_avail_temp": 15.0,
+          "outside_temp": null,
+          "passenger_temp_setting": 25.0,
+          "remote_heater_control_enabled": false,
+          "right_temp_direction": null,
+          "seat_heater_left": 0,
+          "seat_heater_rear_center": 0,
+          "seat_heater_rear_left": 0,
+          "seat_heater_rear_right": 0,
+          "seat_heater_right": 0,
+          "side_mirror_heaters": false,
+          "supports_fan_only_cabin_overheat_protection": false,
+          "timestamp": 1776653355200,
+          "wiper_blade_heater": false
+        },
+        "gui_settings": {
+          "gui_24_hour_time": false,
+          "gui_charge_rate_units": "mi/hr",
+          "gui_distance_units": "mi/hr",
+          "gui_range_display": "Ideal",
+          "gui_temperature_units": "F",
+          "show_range_units": true,
+          "timestamp": 1776653355200
+        },
+        "vehicle_config": {
+          "can_accept_navigation_requests": true,
+          "can_actuate_trunks": true,
+          "car_special_type": "base",
+          "car_type": "models",
+          "charge_port_type": "US",
+          "dashcam_clip_save_supported": false,
+          "default_charge_to_max": false,
+          "driver_assist": "MonoCam",
+          "ece_restrictions": false,
+          "efficiency_package": "Default",
+          "eu_vehicle": false,
+          "exterior_color": "Black",
+          "front_drive_unit": "NoneOrSmall",
+          "has_air_suspension": true,
+          "has_ludicrous_mode": true,
+          "has_seat_cooling": false,
+          "headlamp_type": "Hid",
+          "interior_trim_type": "AllBlack",
+          "motorized_charge_port": true,
+          "plg": true,
+          "pws": false,
+          "rear_drive_unit": "Large",
+          "rear_seat_heaters": 1,
+          "rear_seat_type": 0,
+          "rhd": false,
+          "roof_color": "None",
+          "seat_type": 1,
+          "spoiler_type": "None",
+          "sun_roof_installed": 1,
+          "third_row_seats": "None",
+          "timestamp": 1776653355201,
+          "trim_badging": "p85d",
+          "use_range_badging": false,
+          "utc_offset": -25200,
+          "wheel_type": "Base19"
+        },
+        "vehicle_state": {
+          "api_version": 36,
+          "autopark_state_v2": "standby",
+          "autopark_style": "standard",
+          "calendar_supported": true,
+          "car_version": "2025.38.12 37d8ecb0f7ed",
+          "center_display_state": 0,
+          "dashcam_clip_save_available": false,
+          "dashcam_state": "<invalid>",
+          "df": 0,
+          "dr": 0,
+          "fd_window": 0,
+          "feature_bitmask": "5,0",
+          "fp_window": 0,
+          "ft": 0,
+          "homelink_device_count": 0,
+          "homelink_nearby": false,
+          "is_user_present": false,
+          "last_autopark_error": "no_error",
+          "locked": true,
+          "media_state": {
+            "remote_control_enabled": true
+          },
+          "notifications_supported": true,
+          "odometer": 97731.318979,
+          "parsed_calendar_supported": true,
+          "pf": 0,
+          "pr": 0,
+          "rd_window": 1,
+          "remote_start": false,
+          "remote_start_enabled": true,
+          "remote_start_supported": true,
+          "rp_window": 1,
+          "rt": 0,
+          "santa_mode": 0,
+          "smart_summon_available": false,
+          "software_update": {
+            "download_perc": 100,
+            "expected_duration_sec": 2700,
+            "install_perc": 1,
+            "status": "downloading_wifi_wait",
+            "version": "2025.38.13"
+          },
+          "speed_limit_mode": {
+            "active": false,
+            "current_limit_mph": 85.0,
+            "max_limit_mph": 90,
+            "min_limit_mph": 50.0,
+            "pin_code_set": true
+          },
+          "summon_standby_mode_enabled": false,
+          "sun_roof_percent_open": 0,
+          "sun_roof_state": "closed",
+          "timestamp": 1776653355199,
+          "tpms_pressure_fl": null,
+          "tpms_pressure_fr": null,
+          "tpms_pressure_rl": null,
+          "tpms_pressure_rr": null,
+          "valet_mode": false,
+          "vehicle_name": "Fuck opec"
+        }
+      }
+    }
+  },
+  "recent_alerts": {
+    "status": 200,
+    "data": {
+      "response": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-19T19:46:29.597+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-19T19:42:16.572+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "GTW_w042_cpMia",
+            "time": "2026-04-19T19:29:10.586+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Charge port disabled/Charging unavailable"
+          },
+          {
+            "name": "DI_u023_holdReleaseRqrd",
+            "time": "2026-04-19T19:26:14.584+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "To release Vehicle Hold/Press brake pedal or accelerator pedal"
+          },
+          {
+            "name": "GTW_w290_parkAssistTempFailure",
+            "time": "2026-04-19T19:25:57.576+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Park Assist unavailable/"
+          },
+          {
+            "name": "MCU_w012_TPMS_systemFault",
+            "time": "2026-04-19T19:12:42.211+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Tire pressure monitoring system fault/Pressure sensor fault may clear next drive"
+          }
+        ]
+      }
+    }
+  },
+  "release_notes": {
+    "status": 200,
+    "data": {
+      "response": {
+        "release_notes": [
+          {
+            "title": "Minor Fixes",
+            "description": "This release contains minor fixes and improvements",
+            "customer_version": "2025.38.12",
+            "icon": "release_notes_icon",
+            "show_in_history": false,
+            "image_url": "https://vehicle-files.teslamotors.com/mothership_files/prd/release_notes/minor-fixes-image.png?__gda__=exp=1777862956~acl=/mothership_files/prd/release_notes/minor-fixes-image.png~hmac=e86a01b48ff440dc44bb9e5f93af850b0f44962750991486878b165d7f9d67ba",
+            "light_image_url": "https://vehicle-files.teslamotors.com/mothership_files/prd/release_notes/minor-fixes-light-image.png?__gda__=exp=1777862956~acl=/mothership_files/prd/release_notes/minor-fixes-light-image.png~hmac=c27af9fbb91aaae2673fb874c563ee9ef4fed5ef9999c97c24d61ecee5f8a344",
+            "is_fallback": true
+          }
+        ],
+        "deployed_version": "2025.38.12",
+        "staged_version": null,
+        "release_notes_version": "2025.38.12"
+      }
+    }
+  },
+  "service_data": {
+    "status": 200,
+    "data": {
+      "response": {}
+    }
+  },
+  "fleet_telemetry_config": {
+    "status": 200,
+    "data": {
+      "response": {
+        "synced": true,
+        "config": null,
+        "limit_reached": false,
+        "key_paired": false
+      }
+    }
+  },
+  "pulled_at": "2026-04-19T19:49:23Z"
+}
