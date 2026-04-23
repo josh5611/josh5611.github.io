@@ -29,10 +29,14 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Poll Tesla API and save data
+      - name: Poll Tesla API and save data (5 polls, 60 sec apart)
         env:
           TESLA_REFRESH_TOKEN: ${{ secrets.TESLA_REFRESH_TOKEN }}
-        run: python tesla_logger/poll_tesla.py
+        run: |
+          for i in 1 2 3 4 5; do
+            python tesla_logger/poll_tesla.py
+            if [ $i -lt 5 ]; then sleep 60; fi
+          done
 
       - name: Update refresh token secret if rotated
         if: hashFiles('tesla_data/.new_refresh_token') != ''
