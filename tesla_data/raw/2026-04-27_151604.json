@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-04-27T15:16:04.694813+00:00",
+  "vehicle_data": {
+    "status": "asleep",
+    "timestamp": "2026-04-27T15:16:04.382861+00:00"
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "CP_w041_doorSensorUnplugged",
+        "time": "2026-04-27T02:46:01.320+00:00",
+        "audience": [
+          "customer",
+          "service-fix"
+        ],
+        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      }
+    ]
+  }
+}
