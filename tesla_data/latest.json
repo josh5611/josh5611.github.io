@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-27T03:19:06.991186+00:00",
-  "poll_id": "20260427_031906",
+  "timestamp": "2026-04-27T04:47:02.327325+00:00",
+  "poll_id": "20260427_044702",
   "status": "online",
   "battery": {
     "level": null,
@@ -42,7 +42,7 @@
     "recent_alerts": [
       {
         "name": "BMS_u018_SOC_Imbalance_Limiting",
-        "time": "2026-04-26T20:07:22.359+00:00",
+        "time": "2026-04-26T20:31:30.355+00:00",
         "audience": [
           "customer",
           "service"
@@ -51,7 +51,7 @@
       },
       {
         "name": "CP_w041_doorSensorUnplugged",
-        "time": "2026-04-26T19:45:32.319+00:00",
+        "time": "2026-04-26T20:19:10.316+00:00",
         "audience": [
           "customer",
           "service-fix"
