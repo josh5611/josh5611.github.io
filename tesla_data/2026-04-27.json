@@ -945,7 +945,322 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-04-27T09:37:36.005707+00:00",
+      "poll_id": "20260427_093736",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-26T23:41:20.392+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-26T20:43:18.318+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-04-27T09:38:37.925694+00:00",
+      "poll_id": "20260427_093837",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-26T23:41:20.392+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-26T20:43:18.318+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-04-27T09:39:41.998274+00:00",
+      "poll_id": "20260427_093941",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-26T23:41:20.392+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-26T20:43:18.318+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-04-27T09:40:43.883112+00:00",
+      "poll_id": "20260427_094043",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-26T23:41:20.392+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-26T20:43:18.318+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-04-27T09:41:46.979542+00:00",
+      "poll_id": "20260427_094146",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-26T23:41:20.392+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-26T20:43:18.318+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          }
+        ]
+      }
     }
   ],
-  "last_updated": "2026-04-27T07:30:27.881169+00:00"
+  "last_updated": "2026-04-27T09:41:46.979542+00:00"
 }
