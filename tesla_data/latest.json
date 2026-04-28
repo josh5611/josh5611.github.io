@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-27T21:45:10.145566+00:00",
-  "poll_id": "20260427_214510",
+  "timestamp": "2026-04-28T04:50:19.336857+00:00",
+  "poll_id": "20260428_045019",
   "status": "online",
   "battery": {
     "level": null,
@@ -41,22 +41,71 @@
   "alerts": {
     "recent_alerts": [
       {
-        "name": "BMS_u018_SOC_Imbalance_Limiting",
-        "time": "2026-04-27T13:18:33.352+00:00",
+        "name": "BMS_f098_HW_BMB_Over_Voltage",
+        "time": "2026-04-27T20:01:55.322+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "GTW_w370_noLVSupportSocTooLow",
+        "time": "2026-04-27T19:33:34.316+00:00",
         "audience": [
           "customer",
           "service"
         ],
-        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+        "user_text": "Battery charge level too low/Charge now - Vehicle may not wake from sleep"
+      },
+      {
+        "name": "BMS_w098_HW_BMB_Over_Voltage",
+        "time": "2026-04-27T17:07:11.325+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_w017_SW_Brick_OV",
+        "time": "2026-04-27T17:01:39.344+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_f017_SW_Brick_OV",
+        "time": "2026-04-27T17:01:39.328+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
       },
       {
         "name": "CP_w041_doorSensorUnplugged",
-        "time": "2026-04-27T13:17:30.326+00:00",
+        "time": "2026-04-27T13:21:46.329+00:00",
         "audience": [
           "customer",
           "service-fix"
         ],
         "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      },
+      {
+        "name": "BMS_u018_SOC_Imbalance_Limiting",
+        "time": "2026-04-27T13:21:45.325+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
       }
     ]
   }
