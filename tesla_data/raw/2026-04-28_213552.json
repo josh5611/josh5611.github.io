@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-04-28T21:35:52.401740+00:00",
+  "vehicle_data": {
+    "status": "asleep",
+    "timestamp": "2026-04-28T21:35:52.130984+00:00"
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "CP_w041_doorSensorUnplugged",
+        "time": "2026-04-28T12:37:05.804+00:00",
+        "audience": [
+          "customer",
+          "service-fix"
+        ],
+        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      },
+      {
+        "name": "BMS_u018_SOC_Imbalance_Limiting",
+        "time": "2026-04-28T12:37:03.815+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+      }
+    ]
+  }
+}
