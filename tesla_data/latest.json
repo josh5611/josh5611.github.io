@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-28T19:00:45.944350+00:00",
-  "poll_id": "20260428_190045",
+  "timestamp": "2026-04-28T20:21:32.159983+00:00",
+  "poll_id": "20260428_202132",
   "status": "online",
   "battery": {
     "level": null,
@@ -42,7 +42,7 @@
     "recent_alerts": [
       {
         "name": "CP_w041_doorSensorUnplugged",
-        "time": "2026-04-28T11:39:55.807+00:00",
+        "time": "2026-04-28T12:37:05.804+00:00",
         "audience": [
           "customer",
           "service-fix"
@@ -51,30 +51,12 @@
       },
       {
         "name": "BMS_u018_SOC_Imbalance_Limiting",
-        "time": "2026-04-28T03:25:34.805+00:00",
+        "time": "2026-04-28T12:37:03.815+00:00",
         "audience": [
           "customer",
           "service"
         ],
         "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
-      },
-      {
-        "name": "MCU_w007_MapsMissing",
-        "time": "2026-04-28T01:03:18.637+00:00",
-        "audience": [
-          "customer",
-          "service-fix"
-        ],
-        "user_text": "Navigation unavailable - Service is required/Navigation data cannot be located"
-      },
-      {
-        "name": "GTW_w290_parkAssistTempFailure",
-        "time": "2026-04-28T01:02:39.681+00:00",
-        "audience": [
-          "customer",
-          "service"
-        ],
-        "user_text": "Park Assist unavailable/"
       }
     ]
   }
