@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-29T21:55:51.006960+00:00",
-  "poll_id": "20260429_215551",
+  "timestamp": "2026-04-29T22:47:37.246140+00:00",
+  "poll_id": "20260429_224737",
   "status": "online",
   "battery": {
     "level": null,
@@ -41,22 +41,22 @@
   "alerts": {
     "recent_alerts": [
       {
-        "name": "BMS_u018_SOC_Imbalance_Limiting",
-        "time": "2026-04-29T14:54:26.819+00:00",
-        "audience": [
-          "customer",
-          "service"
-        ],
-        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
-      },
-      {
         "name": "CP_w041_doorSensorUnplugged",
-        "time": "2026-04-29T14:52:46.804+00:00",
+        "time": "2026-04-29T14:55:53.808+00:00",
         "audience": [
           "customer",
           "service-fix"
         ],
         "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      },
+      {
+        "name": "BMS_u018_SOC_Imbalance_Limiting",
+        "time": "2026-04-29T14:55:51.818+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
       }
     ]
   }
