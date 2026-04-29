@@ -1760,7 +1760,522 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-04-29T07:11:18.357577+00:00",
+      "poll_id": "20260429_071118",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:16:55.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:12:09.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.808+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-28T12:37:05.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-28T12:37:03.815+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-04-29T07:12:21.253887+00:00",
+      "poll_id": "20260429_071221",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:16:55.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:12:09.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.808+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-28T12:37:05.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-28T12:37:03.815+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-04-29T07:13:25.108647+00:00",
+      "poll_id": "20260429_071325",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:16:55.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:12:09.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.808+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-28T12:37:05.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-28T12:37:03.815+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-04-29T07:14:27.527976+00:00",
+      "poll_id": "20260429_071427",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:16:55.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:12:09.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.808+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-28T12:37:05.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-28T12:37:03.815+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-04-29T07:15:29.961659+00:00",
+      "poll_id": "20260429_071529",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:16:55.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-04-28T22:12:09.805+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.808+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-04-28T20:23:03.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-04-28T12:37:05.804+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-04-28T12:37:03.815+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          }
+        ]
+      }
     }
   ],
-  "last_updated": "2026-04-29T04:46:34.629852+00:00"
+  "last_updated": "2026-04-29T07:15:29.961659+00:00"
 }
