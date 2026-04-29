@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-29T12:59:57.232219+00:00",
-  "poll_id": "20260429_125957",
+  "timestamp": "2026-04-29T15:16:19.588948+00:00",
+  "poll_id": "20260429_151619",
   "status": "online",
   "battery": {
     "level": null,
@@ -42,61 +42,12 @@
     "recent_alerts": [
       {
         "name": "CP_w041_doorSensorUnplugged",
-        "time": "2026-04-29T05:57:57.805+00:00",
+        "time": "2026-04-29T07:14:28.806+00:00",
         "audience": [
           "customer",
           "service-fix"
         ],
         "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
-      },
-      {
-        "name": "BMS_u018_SOC_Imbalance_Limiting",
-        "time": "2026-04-29T03:43:46.808+00:00",
-        "audience": [
-          "customer",
-          "service"
-        ],
-        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
-      },
-      {
-        "name": "BMS_w017_SW_Brick_OV",
-        "time": "2026-04-29T01:57:56.803+00:00",
-        "audience": [
-          "customer",
-          "service-fix",
-          "factory"
-        ],
-        "user_text": "Service is required/PULL OVER SAFELY"
-      },
-      {
-        "name": "BMS_f098_HW_BMB_Over_Voltage",
-        "time": "2026-04-28T22:16:55.805+00:00",
-        "audience": [
-          "customer",
-          "service-fix",
-          "factory"
-        ],
-        "user_text": "Service is required/PULL OVER SAFELY"
-      },
-      {
-        "name": "BMS_w098_HW_BMB_Over_Voltage",
-        "time": "2026-04-28T22:12:09.805+00:00",
-        "audience": [
-          "customer",
-          "service-fix",
-          "factory"
-        ],
-        "user_text": "Service is required/PULL OVER SAFELY"
-      },
-      {
-        "name": "BMS_f017_SW_Brick_OV",
-        "time": "2026-04-28T20:23:03.804+00:00",
-        "audience": [
-          "customer",
-          "service-fix",
-          "factory"
-        ],
-        "user_text": "Service is required/PULL OVER SAFELY"
       }
     ]
   }
