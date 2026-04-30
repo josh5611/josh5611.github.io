@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-04-30T15:13:18.715955+00:00",
+  "vehicle_data": {
+    "status": "asleep",
+    "timestamp": "2026-04-30T15:13:18.450458+00:00"
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "GTW_w370_noLVSupportSocTooLow",
+        "time": "2026-04-30T00:23:27.805+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Battery charge level too low/Charge now - Vehicle may not wake from sleep"
+      },
+      {
+        "name": "BMS_w017_SW_Brick_OV",
+        "time": "2026-04-29T19:44:23.808+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_f017_SW_Brick_OV",
+        "time": "2026-04-29T19:44:23.803+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "CP_w041_doorSensorUnplugged",
+        "time": "2026-04-29T14:55:53.808+00:00",
+        "audience": [
+          "customer",
+          "service-fix"
+        ],
+        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      },
+      {
+        "name": "BMS_u018_SOC_Imbalance_Limiting",
+        "time": "2026-04-29T14:55:51.818+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+      }
+    ]
+  }
+}

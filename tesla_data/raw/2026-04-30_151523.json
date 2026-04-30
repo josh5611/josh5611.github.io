@@ -1,0 +1,76 @@
+{
+  "timestamp": "2026-04-30T15:15:23.859439+00:00",
+  "vehicle_data": {
+    "id": 1492932565043024,
+    "user_id": 2252222652417802,
+    "vehicle_id": 396794961,
+    "vin": "5YJSA1H25EFP67580",
+    "color": null,
+    "access_type": "OWNER",
+    "granular_access": {
+      "hide_private": false
+    },
+    "tokens": null,
+    "state": "online",
+    "in_service": false,
+    "id_s": "1492932565043024",
+    "calendar_enabled": true,
+    "api_version": 36,
+    "backseat_token": null,
+    "backseat_token_updated_at": null,
+    "ble_autopair_enrolled": false,
+    "supercharger_payment_needed": "false",
+    "supercharging_enabled": "true"
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "GTW_w370_noLVSupportSocTooLow",
+        "time": "2026-04-30T00:23:27.805+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Battery charge level too low/Charge now - Vehicle may not wake from sleep"
+      },
+      {
+        "name": "BMS_w017_SW_Brick_OV",
+        "time": "2026-04-29T19:44:23.808+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_f017_SW_Brick_OV",
+        "time": "2026-04-29T19:44:23.803+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "CP_w041_doorSensorUnplugged",
+        "time": "2026-04-29T14:55:53.808+00:00",
+        "audience": [
+          "customer",
+          "service-fix"
+        ],
+        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      },
+      {
+        "name": "BMS_u018_SOC_Imbalance_Limiting",
+        "time": "2026-04-29T14:55:51.818+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+      }
+    ]
+  }
+}
