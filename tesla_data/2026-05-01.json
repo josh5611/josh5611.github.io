@@ -4800,7 +4800,637 @@
         "sentry_mode": null
       },
       "alerts": null
+    },
+    {
+      "timestamp": "2026-05-01T16:11:52.556712+00:00",
+      "poll_id": "20260501_161152",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-05-01T08:20:47.427+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "GTW_w290_parkAssistTempFailure",
+            "time": "2026-05-01T08:20:47.311+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Park Assist unavailable/"
+          },
+          {
+            "name": "GTW_w174_Replace12VBattery",
+            "time": "2026-05-01T08:20:47.293+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Schedule service to replace low voltage battery/Software will not update until battery is replaced"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-05-01T08:20:47.270+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "GTW_w370_noLVSupportSocTooLow",
+            "time": "2026-05-01T08:17:29.291+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Battery charge level too low/Charge now - Vehicle may not wake from sleep"
+          },
+          {
+            "name": "GTW_w177_dead12VBattery",
+            "time": "2026-05-01T08:15:45.825+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power low/Charge vehicle or jump 12V battery"
+          },
+          {
+            "name": "GTW_w157_lowVoltageSupportFault",
+            "time": "2026-05-01T08:15:45.767+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Power reduced/Vehicle systems shutting down"
+          },
+          {
+            "name": "GTW_w018_hvacLoadShed",
+            "time": "2026-05-01T08:15:45.739+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          },
+          {
+            "name": "GTW_w017_accLoadShed",
+            "time": "2026-05-01T08:15:45.735+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-05-01T16:12:54.595441+00:00",
+      "poll_id": "20260501_161254",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-05-01T08:20:47.427+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "GTW_w290_parkAssistTempFailure",
+            "time": "2026-05-01T08:20:47.311+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Park Assist unavailable/"
+          },
+          {
+            "name": "GTW_w174_Replace12VBattery",
+            "time": "2026-05-01T08:20:47.293+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Schedule service to replace low voltage battery/Software will not update until battery is replaced"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-05-01T08:20:47.270+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "GTW_w370_noLVSupportSocTooLow",
+            "time": "2026-05-01T08:17:29.291+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Battery charge level too low/Charge now - Vehicle may not wake from sleep"
+          },
+          {
+            "name": "GTW_w177_dead12VBattery",
+            "time": "2026-05-01T08:15:45.825+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power low/Charge vehicle or jump 12V battery"
+          },
+          {
+            "name": "GTW_w157_lowVoltageSupportFault",
+            "time": "2026-05-01T08:15:45.767+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Power reduced/Vehicle systems shutting down"
+          },
+          {
+            "name": "GTW_w018_hvacLoadShed",
+            "time": "2026-05-01T08:15:45.739+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          },
+          {
+            "name": "GTW_w017_accLoadShed",
+            "time": "2026-05-01T08:15:45.735+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-05-01T16:13:57.603668+00:00",
+      "poll_id": "20260501_161357",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-05-01T08:20:47.427+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "GTW_w290_parkAssistTempFailure",
+            "time": "2026-05-01T08:20:47.311+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Park Assist unavailable/"
+          },
+          {
+            "name": "GTW_w174_Replace12VBattery",
+            "time": "2026-05-01T08:20:47.293+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Schedule service to replace low voltage battery/Software will not update until battery is replaced"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-05-01T08:20:47.270+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "GTW_w370_noLVSupportSocTooLow",
+            "time": "2026-05-01T08:17:29.291+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Battery charge level too low/Charge now - Vehicle may not wake from sleep"
+          },
+          {
+            "name": "GTW_w177_dead12VBattery",
+            "time": "2026-05-01T08:15:45.825+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power low/Charge vehicle or jump 12V battery"
+          },
+          {
+            "name": "GTW_w157_lowVoltageSupportFault",
+            "time": "2026-05-01T08:15:45.767+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Power reduced/Vehicle systems shutting down"
+          },
+          {
+            "name": "GTW_w018_hvacLoadShed",
+            "time": "2026-05-01T08:15:45.739+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          },
+          {
+            "name": "GTW_w017_accLoadShed",
+            "time": "2026-05-01T08:15:45.735+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-05-01T16:14:59.285551+00:00",
+      "poll_id": "20260501_161459",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-05-01T08:20:47.427+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "GTW_w290_parkAssistTempFailure",
+            "time": "2026-05-01T08:20:47.311+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Park Assist unavailable/"
+          },
+          {
+            "name": "GTW_w174_Replace12VBattery",
+            "time": "2026-05-01T08:20:47.293+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Schedule service to replace low voltage battery/Software will not update until battery is replaced"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-05-01T08:20:47.270+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "GTW_w370_noLVSupportSocTooLow",
+            "time": "2026-05-01T08:17:29.291+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Battery charge level too low/Charge now - Vehicle may not wake from sleep"
+          },
+          {
+            "name": "GTW_w177_dead12VBattery",
+            "time": "2026-05-01T08:15:45.825+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power low/Charge vehicle or jump 12V battery"
+          },
+          {
+            "name": "GTW_w157_lowVoltageSupportFault",
+            "time": "2026-05-01T08:15:45.767+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Power reduced/Vehicle systems shutting down"
+          },
+          {
+            "name": "GTW_w018_hvacLoadShed",
+            "time": "2026-05-01T08:15:45.739+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          },
+          {
+            "name": "GTW_w017_accLoadShed",
+            "time": "2026-05-01T08:15:45.735+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-05-01T16:16:02.694928+00:00",
+      "poll_id": "20260501_161602",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_u018_SOC_Imbalance_Limiting",
+            "time": "2026-05-01T08:20:47.427+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+          },
+          {
+            "name": "GTW_w290_parkAssistTempFailure",
+            "time": "2026-05-01T08:20:47.311+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Park Assist unavailable/"
+          },
+          {
+            "name": "GTW_w174_Replace12VBattery",
+            "time": "2026-05-01T08:20:47.293+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Schedule service to replace low voltage battery/Software will not update until battery is replaced"
+          },
+          {
+            "name": "CP_w041_doorSensorUnplugged",
+            "time": "2026-05-01T08:20:47.270+00:00",
+            "audience": [
+              "customer",
+              "service-fix"
+            ],
+            "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+          },
+          {
+            "name": "GTW_w370_noLVSupportSocTooLow",
+            "time": "2026-05-01T08:17:29.291+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Battery charge level too low/Charge now - Vehicle may not wake from sleep"
+          },
+          {
+            "name": "GTW_w177_dead12VBattery",
+            "time": "2026-05-01T08:15:45.825+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power low/Charge vehicle or jump 12V battery"
+          },
+          {
+            "name": "GTW_w157_lowVoltageSupportFault",
+            "time": "2026-05-01T08:15:45.767+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Power reduced/Vehicle systems shutting down"
+          },
+          {
+            "name": "GTW_w018_hvacLoadShed",
+            "time": "2026-05-01T08:15:45.739+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          },
+          {
+            "name": "GTW_w017_accLoadShed",
+            "time": "2026-05-01T08:15:45.735+00:00",
+            "audience": [
+              "customer",
+              "service"
+            ],
+            "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+          }
+        ]
+      }
     }
   ],
-  "last_updated": "2026-05-01T15:18:03.378204+00:00"
+  "last_updated": "2026-05-01T16:16:02.694928+00:00"
 }
