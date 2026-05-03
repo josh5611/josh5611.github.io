@@ -1,42 +1,8 @@
 {
-  "timestamp": "2026-05-03T17:11:09.306174+00:00",
-  "poll_id": "20260503_171109",
-  "status": "asleep",
-  "battery": {
-    "level": null,
-    "usable": null,
-    "range_miles": null,
-    "est_range": null,
-    "ideal_range": null
-  },
-  "charging": {
-    "state": null,
-    "charge_rate": null,
-    "charger_power": null,
-    "charger_voltage": null,
-    "charger_actual_current": null,
-    "charge_energy_added": null,
-    "charge_miles_added": null,
-    "time_to_full": null,
-    "charge_limit": null
-  },
-  "climate": {
-    "inside_temp_c": null,
-    "outside_temp_c": null,
-    "is_climate_on": null
-  },
-  "drive": {
-    "speed": null,
-    "power": null,
-    "latitude": null,
-    "longitude": null,
-    "heading": null
-  },
-  "vehicle": {
-    "odometer": null,
-    "locked": null,
-    "firmware": null,
-    "sentry_mode": null
+  "timestamp": "2026-05-03T17:09:07.050343+00:00",
+  "vehicle_data": {
+    "status": "asleep",
+    "timestamp": "2026-05-03T17:09:06.858093+00:00"
   },
   "alerts": {
     "recent_alerts": [
