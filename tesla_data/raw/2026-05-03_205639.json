@@ -1,48 +1,32 @@
 {
-  "timestamp": "2026-05-03T21:00:47.879726+00:00",
-  "poll_id": "20260503_210047",
-  "status": "online",
-  "battery": {
-    "level": null,
-    "usable": null,
-    "range_miles": null,
-    "est_range": null,
-    "ideal_range": null
-  },
-  "charging": {
-    "state": null,
-    "charge_rate": null,
-    "charger_power": null,
-    "charger_voltage": null,
-    "charger_actual_current": null,
-    "charge_energy_added": null,
-    "charge_miles_added": null,
-    "time_to_full": null,
-    "charge_limit": null
-  },
-  "climate": {
-    "inside_temp_c": null,
-    "outside_temp_c": null,
-    "is_climate_on": null
-  },
-  "drive": {
-    "speed": null,
-    "power": null,
-    "latitude": null,
-    "longitude": null,
-    "heading": null
-  },
-  "vehicle": {
-    "odometer": null,
-    "locked": null,
-    "firmware": null,
-    "sentry_mode": null
+  "timestamp": "2026-05-03T20:56:39.817475+00:00",
+  "vehicle_data": {
+    "id": 1492932565043024,
+    "user_id": 2252222652417802,
+    "vehicle_id": 396794961,
+    "vin": "5YJSA1H25EFP67580",
+    "color": null,
+    "access_type": "OWNER",
+    "granular_access": {
+      "hide_private": false
+    },
+    "tokens": null,
+    "state": "online",
+    "in_service": false,
+    "id_s": "1492932565043024",
+    "calendar_enabled": true,
+    "api_version": 36,
+    "backseat_token": null,
+    "backseat_token_updated_at": null,
+    "ble_autopair_enrolled": false,
+    "supercharger_payment_needed": "false",
+    "supercharging_enabled": "true"
   },
   "alerts": {
     "recent_alerts": [
       {
         "name": "MCU_w007_MapsMissing",
-        "time": "2026-05-03T11:33:17.421+00:00",
+        "time": "2026-05-03T10:29:38.307+00:00",
         "audience": [
           "customer",
           "service-fix"
@@ -50,17 +34,8 @@
         "user_text": "Navigation unavailable - Service is required/Navigation data cannot be located"
       },
       {
-        "name": "CP_w041_doorSensorUnplugged",
-        "time": "2026-05-03T11:32:31.697+00:00",
-        "audience": [
-          "customer",
-          "service-fix"
-        ],
-        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
-      },
-      {
         "name": "BMS_u018_SOC_Imbalance_Limiting",
-        "time": "2026-05-03T11:32:31.669+00:00",
+        "time": "2026-05-03T10:28:54.988+00:00",
         "audience": [
           "customer",
           "service"
@@ -68,8 +43,17 @@
         "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
       },
       {
+        "name": "CP_w041_doorSensorUnplugged",
+        "time": "2026-05-03T10:28:54.943+00:00",
+        "audience": [
+          "customer",
+          "service-fix"
+        ],
+        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      },
+      {
         "name": "GTW_w370_noLVSupportSocTooLow",
-        "time": "2026-05-03T11:32:31.625+00:00",
+        "time": "2026-05-03T10:28:54.936+00:00",
         "audience": [
           "customer",
           "service"
@@ -78,7 +62,7 @@
       },
       {
         "name": "GTW_w290_parkAssistTempFailure",
-        "time": "2026-05-03T11:32:31.620+00:00",
+        "time": "2026-05-03T10:28:54.933+00:00",
         "audience": [
           "customer",
           "service"
@@ -87,7 +71,7 @@
       },
       {
         "name": "GTW_w174_Replace12VBattery",
-        "time": "2026-05-03T11:32:31.598+00:00",
+        "time": "2026-05-03T10:28:54.929+00:00",
         "audience": [
           "customer",
           "service-fix"
