@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-04T15:17:48.529090+00:00",
-  "poll_id": "20260504_151748",
+  "timestamp": "2026-05-04T17:05:58.187644+00:00",
+  "poll_id": "20260504_170558",
   "status": "online",
   "battery": {
     "level": null,
@@ -59,15 +59,6 @@
           "factory"
         ],
         "user_text": "Service is required/PULL OVER SAFELY"
-      },
-      {
-        "name": "MCU_w007_MapsMissing",
-        "time": "2026-05-03T11:33:17.421+00:00",
-        "audience": [
-          "customer",
-          "service-fix"
-        ],
-        "user_text": "Navigation unavailable - Service is required/Navigation data cannot be located"
       }
     ]
   }

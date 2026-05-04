@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-05-04T17:03:54.153723+00:00",
+  "vehicle_data": {
+    "id": 1492932565043024,
+    "user_id": 2252222652417802,
+    "vehicle_id": 396794961,
+    "vin": "5YJSA1H25EFP67580",
+    "color": null,
+    "access_type": "OWNER",
+    "granular_access": {
+      "hide_private": false
+    },
+    "tokens": null,
+    "state": "online",
+    "in_service": false,
+    "id_s": "1492932565043024",
+    "calendar_enabled": true,
+    "api_version": 36,
+    "backseat_token": null,
+    "backseat_token_updated_at": null,
+    "ble_autopair_enrolled": false,
+    "supercharger_payment_needed": "false",
+    "supercharging_enabled": "true"
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "BMS_w017_SW_Brick_OV",
+        "time": "2026-05-03T21:25:47.503+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_f017_SW_Brick_OV",
+        "time": "2026-05-03T21:19:52.503+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      }
+    ]
+  }
+}
