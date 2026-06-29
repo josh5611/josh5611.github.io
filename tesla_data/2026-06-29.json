@@ -2550,7 +2550,432 @@
           }
         ]
       }
+    },
+    {
+      "timestamp": "2026-06-29T21:46:43.886282+00:00",
+      "poll_id": "20260629_214643",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T14:16:04.025+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T13:53:17.058+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-06-28T16:12:47.019+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-06-28T08:12:23.021+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-29T21:47:51.623893+00:00",
+      "poll_id": "20260629_214751",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T14:16:04.025+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T13:53:17.058+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-06-28T16:12:47.019+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-06-28T08:12:23.021+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-29T21:48:53.693357+00:00",
+      "poll_id": "20260629_214853",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T14:16:04.025+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T13:53:17.058+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-06-28T16:12:47.019+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-06-28T08:12:23.021+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-29T21:49:57.438314+00:00",
+      "poll_id": "20260629_214957",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T14:16:04.025+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T13:53:17.058+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-06-28T16:12:47.019+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-06-28T08:12:23.021+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          }
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-06-29T21:51:00.175011+00:00",
+      "poll_id": "20260629_215100",
+      "status": "online",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": {
+        "recent_alerts": [
+          {
+            "name": "BMS_f098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T14:16:04.025+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w098_HW_BMB_Over_Voltage",
+            "time": "2026-06-29T13:53:17.058+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_w017_SW_Brick_OV",
+            "time": "2026-06-28T16:12:47.019+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          },
+          {
+            "name": "BMS_f017_SW_Brick_OV",
+            "time": "2026-06-28T08:12:23.021+00:00",
+            "audience": [
+              "customer",
+              "service-fix",
+              "factory"
+            ],
+            "user_text": "Service is required/PULL OVER SAFELY"
+          }
+        ]
+      }
     }
   ],
-  "last_updated": "2026-06-29T20:22:49.395369+00:00"
+  "last_updated": "2026-06-29T21:51:00.175011+00:00"
 }
