@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-01T19:24:30.209067+00:00",
-  "poll_id": "20260701_192430",
-  "status": "online",
+  "timestamp": "2026-07-01T21:02:02.858015+00:00",
+  "poll_id": "20260701_210202",
+  "status": "asleep",
   "battery": {
     "level": null,
     "usable": null,
@@ -42,7 +42,17 @@
     "recent_alerts": [
       {
         "name": "BMS_f098_HW_BMB_Over_Voltage",
-        "time": "2026-07-01T07:45:31.022+00:00",
+        "time": "2026-07-01T13:46:04.024+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_w098_HW_BMB_Over_Voltage",
+        "time": "2026-07-01T13:11:41.054+00:00",
         "audience": [
           "customer",
           "service-fix",

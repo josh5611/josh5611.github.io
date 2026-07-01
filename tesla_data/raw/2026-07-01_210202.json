@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-07-01T21:02:02.861201+00:00",
+  "vehicle_data": {
+    "status": "asleep",
+    "timestamp": "2026-07-01T21:02:02.693731+00:00"
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "BMS_f098_HW_BMB_Over_Voltage",
+        "time": "2026-07-01T13:46:04.024+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_w098_HW_BMB_Over_Voltage",
+        "time": "2026-07-01T13:11:41.054+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      }
+    ]
+  }
+}
