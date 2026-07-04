@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-04T09:59:20.701310+00:00",
-  "poll_id": "20260704_095920",
-  "status": "no_vehicles",
+  "timestamp": "2026-07-04T11:28:27.345364+00:00",
+  "poll_id": "20260704_112827",
+  "status": "shutdown",
   "battery": {
     "level": null,
     "usable": null,
