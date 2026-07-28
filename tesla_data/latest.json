@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-28T00:18:15.896507+00:00",
-  "poll_id": "20260728_001815",
-  "status": "online",
+  "timestamp": "2026-07-28T03:43:04.065317+00:00",
+  "poll_id": "20260728_034304",
+  "status": "shutdown",
   "battery": {
     "level": null,
     "usable": null,
@@ -38,27 +38,5 @@
     "firmware": null,
     "sentry_mode": null
   },
-  "alerts": {
-    "recent_alerts": [
-      {
-        "name": "BMS_f098_HW_BMB_Over_Voltage",
-        "time": "2026-07-27T16:21:48.419+00:00",
-        "audience": [
-          "customer",
-          "service-fix",
-          "factory"
-        ],
-        "user_text": "Service is required/PULL OVER SAFELY"
-      },
-      {
-        "name": "BMS_f030_SW_Chg_Port_Door_Open",
-        "time": "2026-07-27T15:21:40.301+00:00",
-        "audience": [
-          "customer",
-          "service"
-        ],
-        "user_text": "Unable to drive/Close charge port door"
-      }
-    ]
-  }
+  "alerts": null
 }
