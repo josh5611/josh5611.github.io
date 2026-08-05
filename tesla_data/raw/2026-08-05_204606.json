@@ -1,0 +1,123 @@
+{
+  "timestamp": "2026-08-05T20:46:06.729078+00:00",
+  "vehicle_data": {
+    "status": "asleep",
+    "timestamp": "2026-08-05T20:46:06.559359+00:00"
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "GTW_w018_hvacLoadShed",
+        "time": "2026-08-05T13:38:00.307+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+      },
+      {
+        "name": "GTW_w017_accLoadShed",
+        "time": "2026-08-05T13:38:00.300+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Electrical system power reduced/Vehicle may shut down unexpectedly"
+      },
+      {
+        "name": "GTW_w157_lowVoltageSupportFault",
+        "time": "2026-08-05T13:37:54.299+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Power reduced/Vehicle systems shutting down"
+      },
+      {
+        "name": "BMS_f098_HW_BMB_Over_Voltage",
+        "time": "2026-08-05T13:37:34.411+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "CP_w041_doorSensorUnplugged",
+        "time": "2026-08-05T13:37:33.371+00:00",
+        "audience": [
+          "customer",
+          "service-fix"
+        ],
+        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      },
+      {
+        "name": "CP_w043_doorPotIrrational",
+        "time": "2026-08-05T13:37:30.310+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
+      },
+      {
+        "name": "BMS_u018_SOC_Imbalance_Limiting",
+        "time": "2026-08-05T13:10:00.813+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
+      },
+      {
+        "name": "BMS_w098_HW_BMB_Over_Voltage",
+        "time": "2026-08-05T13:10:00.703+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_w017_SW_Brick_OV",
+        "time": "2026-08-05T13:10:00.591+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_f030_SW_Chg_Port_Door_Open",
+        "time": "2026-08-05T13:10:00.509+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Unable to drive/Close charge port door"
+      },
+      {
+        "name": "BMS_f017_SW_Brick_OV",
+        "time": "2026-08-05T13:10:00.441+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "MCU_w007_MapsMissing",
+        "time": "2026-08-05T13:09:55.561+00:00",
+        "audience": [
+          "customer",
+          "service-fix"
+        ],
+        "user_text": "Navigation unavailable - Service is required/Navigation data cannot be located"
+      }
+    ]
+  }
+}
