@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-07T23:02:08.198294+00:00",
-  "poll_id": "20260807_230208",
-  "status": "asleep",
+  "timestamp": "2026-08-07T23:40:45.731812+00:00",
+  "poll_id": "20260807_234045",
+  "status": "online",
   "battery": {
     "level": null,
     "usable": null,
@@ -42,7 +42,7 @@
     "recent_alerts": [
       {
         "name": "BMS_f098_HW_BMB_Over_Voltage",
-        "time": "2026-08-07T15:31:34.262+00:00",
+        "time": "2026-08-07T16:31:39.258+00:00",
         "audience": [
           "customer",
           "service-fix",
@@ -52,7 +52,7 @@
       },
       {
         "name": "BMS_f030_SW_Chg_Port_Door_Open",
-        "time": "2026-08-07T14:31:28.262+00:00",
+        "time": "2026-08-07T16:31:36.260+00:00",
         "audience": [
           "customer",
           "service"
