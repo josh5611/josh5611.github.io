@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-07T05:22:38.684344+00:00",
-  "poll_id": "20260807_052238",
+  "timestamp": "2026-08-07T06:40:58.858167+00:00",
+  "poll_id": "20260807_064058",
   "status": "online",
   "battery": {
     "level": null,
@@ -42,7 +42,7 @@
     "recent_alerts": [
       {
         "name": "BMS_f098_HW_BMB_Over_Voltage",
-        "time": "2026-08-06T21:29:59.261+00:00",
+        "time": "2026-08-06T23:30:09.262+00:00",
         "audience": [
           "customer",
           "service-fix",
