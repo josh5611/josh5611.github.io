@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-08-08T00:03:52.862728+00:00",
+  "vehicle_data": {
+    "status": "asleep",
+    "timestamp": "2026-08-08T00:03:52.567410+00:00"
+  },
+  "alerts": {
+    "recent_alerts": [
+      {
+        "name": "BMS_f098_HW_BMB_Over_Voltage",
+        "time": "2026-08-07T16:31:39.258+00:00",
+        "audience": [
+          "customer",
+          "service-fix",
+          "factory"
+        ],
+        "user_text": "Service is required/PULL OVER SAFELY"
+      },
+      {
+        "name": "BMS_f030_SW_Chg_Port_Door_Open",
+        "time": "2026-08-07T16:31:36.260+00:00",
+        "audience": [
+          "customer",
+          "service"
+        ],
+        "user_text": "Unable to drive/Close charge port door"
+      }
+    ]
+  }
+}
