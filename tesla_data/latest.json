@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-13T00:13:47.820217+00:00",
-  "poll_id": "20260813_001347",
+  "timestamp": "2026-08-13T02:49:18.044841+00:00",
+  "poll_id": "20260813_024918",
   "status": "online",
   "battery": {
     "level": null,
@@ -42,7 +42,7 @@
     "recent_alerts": [
       {
         "name": "BMS_f098_HW_BMB_Over_Voltage",
-        "time": "2026-08-12T16:46:53.925+00:00",
+        "time": "2026-08-12T19:47:11.932+00:00",
         "audience": [
           "customer",
           "service-fix",
@@ -52,60 +52,12 @@
       },
       {
         "name": "BMS_f030_SW_Chg_Port_Door_Open",
-        "time": "2026-08-12T16:46:50.933+00:00",
+        "time": "2026-08-12T19:47:08.945+00:00",
         "audience": [
           "customer",
           "service"
         ],
         "user_text": "Unable to drive/Close charge port door"
-      },
-      {
-        "name": "CP_w041_doorSensorUnplugged",
-        "time": "2026-08-12T10:54:13.121+00:00",
-        "audience": [
-          "customer",
-          "service-fix"
-        ],
-        "user_text": "Charge port door sensor fault/Charge port may not operate as expected"
-      },
-      {
-        "name": "BMS_u018_SOC_Imbalance_Limiting",
-        "time": "2026-08-12T10:54:13.081+00:00",
-        "audience": [
-          "customer",
-          "service"
-        ],
-        "user_text": "Maximum battery charge level reduced/OK to drive - Schedule service"
-      },
-      {
-        "name": "BMS_w098_HW_BMB_Over_Voltage",
-        "time": "2026-08-12T10:54:13.008+00:00",
-        "audience": [
-          "customer",
-          "service-fix",
-          "factory"
-        ],
-        "user_text": "Service is required/PULL OVER SAFELY"
-      },
-      {
-        "name": "BMS_w017_SW_Brick_OV",
-        "time": "2026-08-12T10:54:12.979+00:00",
-        "audience": [
-          "customer",
-          "service-fix",
-          "factory"
-        ],
-        "user_text": "Service is required/PULL OVER SAFELY"
-      },
-      {
-        "name": "BMS_f017_SW_Brick_OV",
-        "time": "2026-08-12T10:54:12.949+00:00",
-        "audience": [
-          "customer",
-          "service-fix",
-          "factory"
-        ],
-        "user_text": "Service is required/PULL OVER SAFELY"
       }
     ]
   }
