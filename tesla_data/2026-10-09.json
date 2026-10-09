@@ -210,7 +210,217 @@
         "sentry_mode": null
       },
       "alerts": null
+    },
+    {
+      "timestamp": "2026-10-09T07:41:23.054572+00:00",
+      "poll_id": "20261009_074123",
+      "status": "shutdown",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": null
+    },
+    {
+      "timestamp": "2026-10-09T07:42:23.839320+00:00",
+      "poll_id": "20261009_074223",
+      "status": "shutdown",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": null
+    },
+    {
+      "timestamp": "2026-10-09T07:43:24.550848+00:00",
+      "poll_id": "20261009_074324",
+      "status": "shutdown",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": null
+    },
+    {
+      "timestamp": "2026-10-09T07:44:25.556650+00:00",
+      "poll_id": "20261009_074425",
+      "status": "shutdown",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": null
+    },
+    {
+      "timestamp": "2026-10-09T07:45:26.607084+00:00",
+      "poll_id": "20261009_074526",
+      "status": "shutdown",
+      "battery": {
+        "level": null,
+        "usable": null,
+        "range_miles": null,
+        "est_range": null,
+        "ideal_range": null
+      },
+      "charging": {
+        "state": null,
+        "charge_rate": null,
+        "charger_power": null,
+        "charger_voltage": null,
+        "charger_actual_current": null,
+        "charge_energy_added": null,
+        "charge_miles_added": null,
+        "time_to_full": null,
+        "charge_limit": null
+      },
+      "climate": {
+        "inside_temp_c": null,
+        "outside_temp_c": null,
+        "is_climate_on": null
+      },
+      "drive": {
+        "speed": null,
+        "power": null,
+        "latitude": null,
+        "longitude": null,
+        "heading": null
+      },
+      "vehicle": {
+        "odometer": null,
+        "locked": null,
+        "firmware": null,
+        "sentry_mode": null
+      },
+      "alerts": null
     }
   ],
-  "last_updated": "2026-10-09T01:28:41.243878+00:00"
+  "last_updated": "2026-10-09T07:45:26.607084+00:00"
 }
